@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Vệ sinh giấc ngủ (Sleep Hygiene) được ai hệ thống hóa và từ năm nào?",
+    "expected_answer": "Khái niệm vệ sinh giấc ngủ được Peter Hauri hệ thống hóa từ năm 1977.",
+    "expected_context": "Định nghĩa: Tập hợp thói quen hành vi, môi trường và lối sống hỗ trợ chu kỳ ngủ tự nhiên, giúp dễ ngủ, ngủ sâu và tỉnh táo vào ban ngày. Khái niệm được Peter Hauri hệ thống hóa từ năm 1977."
+  },
+  {
+    "question": "Người lớn khỏe mạnh cần ngủ bao nhiêu giờ mỗi đêm theo khuyến nghị của NSF và AASM?",
+    "expected_answer": "Người lớn khỏe mạnh cần ngủ từ 7–9 giờ mỗi đêm theo khuyến nghị của NSF & AASM, người già cần 7–8 giờ.",
+    "expected_context": "Người lớn khỏe mạnh: 7–9 giờ/đêm (NSF & AASM). Người già: 7–8 giờ."
+  },
+  {
+    "question": "Nên làm gì nếu không thể ngủ được sau 20 phút nằm trên giường?",
+    "expected_answer": "Nếu không ngủ được trong 20 phút, nên ra khỏi giường và làm việc thư giãn như đọc sách giấy, nghe nhạc nhẹ, chỉ quay lại giường khi buồn ngủ.",
+    "expected_context": "Nếu không ngủ được trong 20 phút: ra khỏi giường, làm việc thư giãn (đọc sách giấy, nghe nhạc nhẹ), chỉ quay lại khi buồn ngủ. Tránh “nằm nán” trên giường quá lâu – làm giảm liên kết giường = ngủ."
+  },
+  {
+    "question": "Nhiệt độ phòng ngủ lý tưởng để hỗ trợ giấc ngủ ngon là bao nhiêu độ C?",
+    "expected_answer": "Nhiệt độ phòng ngủ lý tưởng là 15–20°C (khoảng 18–20°C theo nhiều nguồn), vì cơ thể cần giảm nhiệt độ lõi để ngủ.",
+    "expected_context": "Mát: Nhiệt độ phòng 15–20°C (lý tưởng ~18–20°C theo nhiều nguồn). Cơ thể cần giảm nhiệt độ lõi để ngủ."
+  },
+  {
+    "question": "Thời điểm khuyến nghị ngừng sử dụng caffeine trong ngày là khi nào và vì sao?",
+    "expected_answer": "Nên ngừng sử dụng caffeine sau 14–15h vì thời gian bán hủy của caffeine kéo dài từ 5–8 giờ.",
+    "expected_context": "Caffeine: Ngừng sau 14–15h (thời gian bán hủy 5–8 giờ). Cà phê, trà đậm, nước tăng lực, chocolate đều chứa."
+  },
+  {
+    "question": "Tác động của rượu (alcohol) đối với chất lượng giấc ngủ như thế nào?",
+    "expected_answer": "Rượu có thể gây buồn ngủ lúc đầu nhưng phá vỡ giấc ngủ nửa sau đêm, làm giảm giai đoạn ngủ REM và ngủ sâu (deep sleep).",
+    "expected_context": "Alcohol: Có thể gây buồn ngủ ban đầu nhưng phá vỡ giấc ngủ nửa sau đêm, giảm REM và deep sleep. Hạn chế, đặc biệt gần giờ ngủ."
+  },
+  {
+    "question": "Thời gian ngủ trưa tối ưu và khung giờ giới hạn là gì để không ảnh hưởng giấc ngủ ban đêm?",
+    "expected_answer": "Ngủ trưa nên giới hạn trong khoảng 20–30 phút và diễn ra trước 15h để tránh làm giảm áp lực ngủ (sleep drive) ban đêm.",
+    "expected_context": "Ngủ trưa: Nếu cần, giới hạn ≤20–30 phút và trước 15h. Ngủ trưa dài hoặc muộn làm giảm drive ngủ ban đêm."
+  },
+  {
+    "question": "Trước giờ đi ngủ bao lâu thì nên tắt các thiết bị phát ánh sáng xanh?",
+    "expected_answer": "Nên tắt màn hình phát ánh sáng xanh như điện thoại, máy tính, TV ít nhất 60–90 phút trước khi ngủ.",
+    "expected_context": "Tắt màn hình phát ánh sáng xanh (điện thoại, máy tính, TV) ít nhất 60–90 phút trước ngủ. Dùng Night Shift / blue-light glasses nếu bắt buộc."
+  },
+  {
+    "question": "Giấc ngủ REM đóng vai trò gì đối với não bộ con người?",
+    "expected_answer": "Giấc ngủ REM đóng vai trò quan trọng trong việc xử lý cảm xúc, củng cố trí nhớ dài hạn và kích thích sự sáng tạo.",
+    "expected_context": "Giấc ngủ REM (Rapid Eye Movement) hỗ trợ củng cố trí nhớ, xử lý cảm xúc và liên kết các ý tưởng sáng tạo trong não bộ."
+  },
+  {
+    "question": "Hội chứng ngưng thở khi ngủ do tắc nghẽn (OSA) là gì?",
+    "expected_answer": "OSA là tình trạng đường thở trên bị xẹp hoặc tắc nghẽn lặp đi lặp lại trong khi ngủ, dẫn đến ngưng hoặc giảm thông khí và làm tụt oxy máu.",
+    "expected_context": "Hội chứng ngưng thở khi ngủ do tắc nghẽn (Obstructive Sleep Apnea - OSA) đặc trưng bởi các đợt xẹp một phần hoặc hoàn toàn đường hô hấp trên trong giấc ngủ, làm giảm độ bão hòa oxy máu."
+  },
+  {
+    "question": "Phương pháp điều trị chuẩn vàng cho hội chứng ngưng thở khi ngủ do tắc nghẽn mức độ trung bình đến nặng là gì?",
+    "expected_answer": "Thở máy áp lực dương liên tục (CPAP - Continuous Positive Airway Pressure) là tiêu chuẩn vàng trong điều trị OSA.",
+    "expected_context": "Liệu pháp thở máy áp lực dương liên tục (CPAP) được coi là tiêu chuẩn vàng điều trị ngưng thở khi ngủ do tắc nghẽn mức độ trung bình đến nặng."
+  },
+  {
+    "question": "Melatonin là hormone gì và được tiết ra trong điều kiện nào?",
+    "expected_answer": "Melatonin là hormone điều hòa nhịp sinh học ngủ - thức, được tuyến tùng tiết ra chủ yếu trong bóng tối khi không có ánh sáng.",
+    "expected_context": "Melatonin là hormone báo hiệu bóng tối do tuyến tùng tiết ra nhằm điều hòa chu kỳ sinh học ngày đêm của cơ thể."
+  },
+  {
+    "question": "Quy tắc chỉ dùng giường cho mục đích gì trong nguyên tắc vệ sinh giấc ngủ?",
+    "expected_answer": "Giường chỉ nên dùng để ngủ và sinh hoạt vợ chồng/quan hệ tình dục; không dùng để làm việc, xem TV hay ăn uống.",
+    "expected_context": "Giường chỉ dùng để ngủ và quan hệ tình dục (không làm việc, xem TV, ăn) nhằm củng cố phản xạ có điều kiện giữa giường và giấc ngủ."
+  },
+  {
+    "question": "Tại sao nên tắm nước ấm hoặc ngâm chân trước khi ngủ khoảng 1 đến 2 giờ?",
+    "expected_answer": "Tắm nước ấm giúp giãn mạch ngoại vi, sau đó cơ thể nhanh chóng tỏa nhiệt và hạ nhiệt độ lõi, tạo điều kiện thuận lợi để đi vào giấc ngủ.",
+    "expected_context": "Tắm nước ấm hoặc ngâm chân – giúp hạ nhiệt độ lõi cơ thể sau đó thông qua giãn mạch, giúp dễ đi vào giấc ngủ sâu hơn."
+  },
+  {
+    "question": "Thiếu ngủ mãn tính có thể gây ra những nguy cơ sức khỏe nghiêm trọng nào?",
+    "expected_answer": "Thiếu ngủ mãn tính làm tăng nguy cơ mắc bệnh tim mạch, cao huyết áp, tiểu đường type 2, béo phì, suy giảm miễn dịch và rối loạn cảm xúc.",
+    "expected_context": "Thiếu ngủ kéo dài liên quan trực tiếp đến nguy cơ tim mạch, tăng huyết áp, kháng insulin dẫn đến tiểu đường type 2, béo phì và suy giảm chức năng miễn dịch."
+  }
+]

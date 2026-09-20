@@ -9,44 +9,52 @@ Hướng dẫn:
 
 Cài browser trước khi chạy:
     python -m playwright install chromium
-    
--> Dùng Firecrawl or bất cứ công cụ nào bạn quen    
+
+-> Dùng Firecrawl or bất cứ công cụ nào bạn quen
+
+CẢNH BÁO: chạy lại module này sẽ ghi đè article_01..07.json bằng nội dung mới
+nhất của trang nguồn. Corpus đổi thì phải chạy lại Task 3, Task 4 và toàn bộ
+evaluation, vì số liệu trong RESULT.md gắn với đúng bản crawl hiện tại.
 """
 
 import asyncio
 import json
+from datetime import datetime
 from pathlib import Path
 
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
+# Thứ tự ở đây quyết định tên file: phần tử thứ n -> article_{n:02d}.json
 ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
     "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379",
     "https://www.vinmec.com/vie/bai-viet/17-loi-khuyen-de-ngu-ngon-hon-vao-ban-dem-vi",
     "https://www.vinmec.com/vie/bai-viet/cac-tac-hai-cua-thuc-dem-ngu-ngay-vi",
     "https://www.ncbi.nlm.nih.gov/books/NBK20359/",
     "https://www.ncbi.nlm.nih.gov/books/NBK591812/",
     "https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu",
-    "https://tamanhhospital.vn/giac-ngu/"
+    "https://tamanhhospital.vn/giac-ngu/",
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    # TODO: Implement crawling logic.
-    #
-    from datetime import datetime
+    """Crawl một URL và trả về dict đủ 4 field bắt buộc."""
     from crawl4ai import AsyncWebCrawler
-    
+
     async with AsyncWebCrawler() as crawler:
         result = await crawler.arun(url=url)
+        markdown = getattr(result, "markdown", "") or ""
+        # Crawl4AI có thể trả object markdown thay vì str tuỳ phiên bản.
+        if not isinstance(markdown, str):
+            markdown = getattr(markdown, "raw_markdown", "") or str(markdown)
+
+        metadata = getattr(result, "metadata", None) or {}
         return {
             "url": url,
-            "title": result.metadata.get("title", "Unknown"),
+            "title": metadata.get("title") or "Unknown",
             "date_crawled": datetime.now().isoformat(),
-            "content_markdown": result.markdown,
+            "content_markdown": markdown,
         }
-    # raise NotImplementedError("Implement crawl_article")
 
 
 async def crawl_all() -> None:

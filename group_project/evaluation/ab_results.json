@@ -1,0 +1,609 @@
+{
+  "evaluation_date": "2026-09-20",
+  "golden_dataset_size": 32,
+  "top_k": 5,
+  "score_threshold": 0.55,
+  "generator_model": "gpt-4o-mini",
+  "evaluator_model": "gpt-4o-mini",
+  "embedding_model": "BAAI/bge-m3",
+  "configs": {
+    "A": {
+      "label": "dense-only",
+      "scores": {
+        "faithfulness": 0.7523065476190476,
+        "answer_relevancy": 0.6022245797441237,
+        "context_recall": 0.75,
+        "llm_context_precision_with_reference": 0.7561631944039591
+      },
+      "per_question": [
+        {
+          "id": "sleep_001",
+          "question": "Bản tóm tắt sách về giấc ngủ trong corpus giới thiệu ba cuốn nào và ai là tác giả từng cuốn?",
+          "answer": "Bản tóm tắt sách về giấc ngủ giới thiệu ba cuốn sau:\n\n1. **Why We Sleep** - Tác giả: Matthew Walker.\n2. **The Sleep Solution** - Tác giả: W. Chris Winter, MD.\n3. **Sleep Smarter** - Tác giả: Shawn Stevenson. (citation từ Document 1 và Document 2)",
+          "faithfulness": 0.8,
+          "answer_relevancy": 0.6833298009456725,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_002",
+          "question": "Theo bản tóm tắt Why We Sleep, thông điệp chính của sách về vai trò của giấc ngủ là gì?",
+          "answer": "Thông điệp chính của sách \"Why We Sleep\" của Matthew Walker là giấc ngủ là nhu cầu sinh học cơ bản, không phải là một xa xỉ, và thiếu ngủ được coi là một dịch bệnh công cộng của thế kỷ 21. Sách nhấn mạnh rằng giấc ngủ là trụ cột sức khỏe ngang hàng với dinh dưỡng và vận động, đồng thời thiếu ngủ tích lũy có thể gây hại nghiêm trọng đến nhận thức, cảm xúc, miễn dịch và chuyển hóa (Document 1, Document 2).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8204852238960952,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8041666666465626
+        },
+        {
+          "id": "sleep_003",
+          "question": "Bốn phần chính của Why We Sleep được liệt kê trong bản tóm tắt là gì?",
+          "answer": "Xin lỗi, nhưng tôi không có thông tin về bốn phần chính của cuốn sách \"Why We Sleep\" trong tài liệu đã cung cấp.",
+          "faithfulness": 0.0,
+          "answer_relevancy": 0.0,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.49999999995
+        },
+        {
+          "id": "sleep_004",
+          "question": "Theo bản tóm tắt Why We Sleep, NREM và REM có vai trò gì và thay đổi ra sao trong đêm?",
+          "answer": "NREM và REM có vai trò quan trọng trong quá trình ngủ, với các đặc điểm và thay đổi khác nhau trong đêm. NREM là giai đoạn đầu tiên của chu kỳ ngủ, diễn ra sâu hơn trong phần đầu của đêm, và lượng giấc ngủ sâu (deep NREM) giảm dần khi đêm tiến triển. Ngược lại, REM bắt đầu xuất hiện sau NREM và thời gian của các giai đoạn REM kéo dài hơn khi đêm tiếp tục. Chu kỳ ngủ này kéo dài khoảng 90 đến 110 phút và được lặp lại từ bốn đến sáu lần mỗi đêm ([3](https://www.ncbi.nlm.nih.gov/books/NBK20359/), [4](https://www.ncbi.nlm.nih.gov/books/NBK20359/)).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8078976935350674,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999998
+        },
+        {
+          "id": "sleep_005",
+          "question": "Bản tóm tắt Why We Sleep có ủng hộ quan điểm luyện cơ thể để cần ít ngủ hơn không?",
+          "answer": "Bản tóm tắt \"Why We Sleep\" không ủng hộ quan điểm luyện cơ thể để cần ít ngủ hơn. Walker nhấn mạnh rằng không có bằng chứng về việc “luyện” cơ thể cần ít ngủ hơn (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8743313609469929,
+          "context_recall": 0.5,
+          "llm_context_precision_with_reference": 0.699999999965
+        },
+        {
+          "id": "sleep_006",
+          "question": "Corpus lưu ý điều gì khi sử dụng các khẳng định trong Why We Sleep?",
+          "answer": "Corpus lưu ý rằng không có bằng chứng về việc “luyện” cơ thể cần ít ngủ hơn và một số khẳng định trong sách bị chỉ trích là phóng đại dữ liệu nghiên cứu, cần đối chiếu với nguồn AASM, Mayo Clinic (Document 5).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.0,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.49999999995
+        },
+        {
+          "id": "sleep_007",
+          "question": "Theo bản tóm tắt The Sleep Solution, sleepiness khác fatigue như thế nào?",
+          "answer": "Theo bản tóm tắt The Sleep Solution, sleepiness (xu hướng ngủ) là tình trạng thiếu ngủ thật, trong khi fatigue (mệt mỏi) là cảm giác mệt mỏi nhưng không buồn ngủ, có thể do stress hoặc bệnh lý. Sự nhầm lẫn giữa hai khái niệm này có thể dẫn đến điều trị sai (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9203091449717983,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999995
+        },
+        {
+          "id": "sleep_008",
+          "question": "Bản tóm tắt The Sleep Solution liệt kê ba nhóm giai đoạn ngủ nào?",
+          "answer": "Tôi không thể xác minh thông tin về ba nhóm giai đoạn ngủ được liệt kê trong \"The Sleep Solution\" vì không có bằng chứng cụ thể từ các tài liệu đã cung cấp.",
+          "faithfulness": 0.0,
+          "answer_relevancy": 0.0,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.0
+        },
+        {
+          "id": "sleep_009",
+          "question": "Bốn giải pháp thực tiễn nào được liệt kê trong phần tóm tắt The Sleep Solution?",
+          "answer": "Bốn giải pháp thực tiễn được liệt kê trong phần tóm tắt The Sleep Solution không có trong các tài liệu đã cung cấp. Do đó, tôi không thể xác minh thông tin này.",
+          "faithfulness": 0.0,
+          "answer_relevancy": 0.0,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.699999999965
+        },
+        {
+          "id": "sleep_010",
+          "question": "Sleep Smarter tập trung vào bao nhiêu chiến lược và nhằm mục tiêu gì, theo bản tóm tắt?",
+          "answer": "Sleep Smarter tập trung vào 21 chiến lược thực tế nhằm tối ưu chất lượng giấc ngủ (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8443853604225748,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_011",
+          "question": "Theo phần tóm tắt Sleep Smarter, vì sao ánh sáng được mô tả vừa là bạn vừa là kẻ thù của giấc ngủ?",
+          "answer": "Tôi không thể xác minh thông tin về phần tóm tắt \"Sleep Smarter\" vì không có đủ dữ liệu trong các tài liệu đã cung cấp.",
+          "faithfulness": 0.0,
+          "answer_relevancy": 0.0,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8055555555287036
+        },
+        {
+          "id": "sleep_012",
+          "question": "Phần kết luận của bản tóm tắt nêu điểm chung nào giữa Why We Sleep, The Sleep Solution và Sleep Smarter?",
+          "answer": "Từ các tài liệu đã cung cấp, không có thông tin cụ thể nào về phần kết luận của bản tóm tắt nêu điểm chung giữa \"Why We Sleep\", \"The Sleep Solution\" và \"Sleep Smarter\". Do đó, tôi không thể xác minh khẳng định này.",
+          "faithfulness": 0.0,
+          "answer_relevancy": 0.0,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.0
+        },
+        {
+          "id": "sleep_013",
+          "question": "Cẩm nang trong corpus định nghĩa vệ sinh giấc ngủ (sleep hygiene) là gì?",
+          "answer": "Cẩm nang định nghĩa vệ sinh giấc ngủ (sleep hygiene) là tập hợp thói quen hành vi, môi trường và lối sống hỗ trợ chu kỳ ngủ tự nhiên, giúp dễ ngủ, ngủ sâu và tỉnh táo vào ban ngày. Khái niệm này được Peter Hauri hệ thống hóa từ năm 1977 (Document 1).",
+          "faithfulness": 0.75,
+          "answer_relevancy": 0.8182615106395519,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8041666666465626
+        },
+        {
+          "id": "sleep_014",
+          "question": "Theo bài Sleep tips của Mayo Clinic đã crawl, một người nằm khoảng 20 phút vẫn chưa ngủ được nên làm gì?",
+          "answer": "Theo bài Sleep tips của Mayo Clinic, nếu một người nằm khoảng 20 phút vẫn chưa ngủ được, họ nên ra khỏi giường (citation: Document 3).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8686700413695639,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.19999999998
+        },
+        {
+          "id": "sleep_015",
+          "question": "Theo bài Sleep tips của Mayo Clinic đã crawl, rượu có bảo đảm ngủ ngon suốt đêm vì gây buồn ngủ ban đầu không?",
+          "answer": "Rượu không đảm bảo ngủ ngon suốt đêm, mặc dù có thể gây buồn ngủ ban đầu. Nó phá vỡ giấc ngủ nửa sau đêm và giảm chất lượng giấc ngủ, điều này đã được xác nhận trong nhiều tài liệu. Cụ thể, rượu có thể làm giảm REM và giấc ngủ sâu (Document 3) và cũng có thể làm tăng các vấn đề liên quan đến ngưng thở khi ngủ (Document 4).",
+          "faithfulness": 0.8571428571428571,
+          "answer_relevancy": 0.0,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999998
+        },
+        {
+          "id": "sleep_016",
+          "question": "Khuyến nghị về ngủ trưa trong cẩm nang và bài Sleep tips của Mayo Clinic đã crawl khác nhau như thế nào?",
+          "answer": "Từ thông tin có sẵn, không có bằng chứng cụ thể nào trong các tài liệu đã cung cấp để xác minh sự khác biệt giữa khuyến nghị về ngủ trưa trong cẩm nang và bài Sleep tips của Mayo Clinic. Do đó, tôi không thể xác minh câu hỏi này.",
+          "faithfulness": 0.5,
+          "answer_relevancy": 0.0,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.8333333332916666
+        },
+        {
+          "id": "sleep_017",
+          "question": "Cẩm nang và bài Sleep tips của Mayo Clinic đã crawl có cùng nhấn mạnh giữ giờ ngủ–thức vào cuối tuần không?",
+          "answer": "Có, cả cẩm nang và bài \"Sleep tips\" của Mayo Clinic đều nhấn mạnh tầm quan trọng của việc giữ giờ ngủ-thức cố định, ngay cả vào cuối tuần. Điều này được đề cập trong các nguồn tài liệu tham khảo về giấc ngủ. (Document 3)",
+          "faithfulness": 0.5,
+          "answer_relevancy": 0.8109509885863874,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.49999999995
+        },
+        {
+          "id": "sleep_018",
+          "question": "Những đặc điểm chung của phòng ngủ được cả cẩm nang và bài Sleep tips của Mayo Clinic đã crawl nhấn mạnh là gì?",
+          "answer": "Cả cẩm nang và bài Sleep tips của Mayo Clinic đều nhấn mạnh rằng phòng ngủ nên tối, mát và có lịch trình cố định để tạo điều kiện tốt cho giấc ngủ (Document 4).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.7733499551805405,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.49999999995
+        },
+        {
+          "id": "sleep_019",
+          "question": "Tài liệu 01_Tom_tat_Sach_Giac_Ngu trong corpus có phải toàn văn ba cuốn sách gốc không?",
+          "answer": "Tôi không thể xác minh thông tin về tài liệu 01_Tom_tat_Sach_Giac_Ngu trong corpus có phải là toàn văn ba cuốn sách gốc hay không, vì không có bằng chứng trong ngữ cảnh được cung cấp.",
+          "faithfulness": 0.3333333333333333,
+          "answer_relevancy": 0.0,
+          "context_recall": 0.5,
+          "llm_context_precision_with_reference": 0.249999999975
+        },
+        {
+          "id": "sleep_020",
+          "question": "Theo mục Manage worries của bài Sleep tips đã crawl, khi có nhiều điều lo lắng trước giờ ngủ thì có thể làm gì?",
+          "answer": "Theo mục Manage worries trong bài Sleep tips, khi có nhiều điều lo lắng trước giờ ngủ, bạn có thể ghi lại những gì đang làm bạn bận tâm và sau đó để sang ngày mai. Ngoài ra, việc quản lý căng thẳng cũng có thể giúp, bắt đầu từ những điều cơ bản như tổ chức công việc, đặt ưu tiên và phân công nhiệm vụ. Thiền cũng có thể giúp giảm lo âu (Mayo Clinic, article_01.md).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8387804211616104,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8666666666377778
+        },
+        {
+          "id": "sleep_021",
+          "question": "Theo bài viết của Vinmec, uống bao nhiêu mg melatonin trước khi ngủ có thể giúp cải thiện chất lượng giấc ngủ?",
+          "answer": "Theo bài viết của Vinmec, uống 2 mg melatonin trước khi ngủ có thể giúp cải thiện chất lượng và năng lượng giấc ngủ vào ngày hôm sau, đồng thời giúp đi vào ngủ nhanh hơn (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8546750419418679,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999666667
+        },
+        {
+          "id": "sleep_022",
+          "question": "Nhiệt độ phòng ngủ khoảng bao nhiêu độ C được xem là tốt cho hầu hết mọi người?",
+          "answer": "Nhiệt độ phòng ngủ khoảng 20 độ C được xem là mức nhiệt tốt cho hầu hết mọi người để có giấc ngủ ngon (Vinmec, Document 5).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8906505919402491,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999666667
+        },
+        {
+          "id": "sleep_023",
+          "question": "Nghiên cứu về tấm nệm mới trong 28 ngày cho thấy giảm đau lưng, đau vai và cứng khớp bao nhiêu phần trăm?",
+          "answer": "Nghiên cứu về tấm nệm mới trong 28 ngày cho thấy giảm đau lưng tới 57%, đau vai 60% và cứng khớp tới 59% (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.7504882468575546,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_024",
+          "question": "Dùng bao nhiêu gram glycine được cho là có thể cải thiện chất lượng giấc ngủ?",
+          "answer": "Dùng 3 gram axit amin glycine được cho là có thể cải thiện chất lượng giấc ngủ (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9497723961758724,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_025",
+          "question": "Ngủ dưới 6 tiếng mỗi đêm làm tăng nguy cơ đột quỵ thêm bao nhiêu so với người bình thường?",
+          "answer": "Ngủ dưới 6 tiếng mỗi đêm làm tăng nguy cơ đột quỵ hơn 20% so với người bình thường (Vinmec, Document 2).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8323159881472328,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999666667
+        },
+        {
+          "id": "sleep_026",
+          "question": "Giấc ngủ trưa nên kéo dài tối đa bao lâu theo khuyến nghị trong tài liệu?",
+          "answer": "Giấc ngủ trưa nên kéo dài tối đa 30 phút theo khuyến nghị trong tài liệu, vì những giấc ngủ trưa dài hơn có thể gây hại cho sức khỏe và chất lượng giấc ngủ (Document 1).",
+          "faithfulness": 0.6666666666666666,
+          "answer_relevancy": 0.7502181756508655,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_027",
+          "question": "Trong 5 giai đoạn của giấc ngủ, giai đoạn nào thuộc ngủ nông và giai đoạn nào thuộc ngủ sâu?",
+          "answer": "Giai đoạn 1, 2 và REM thuộc giai đoạn ngủ nông, trong khi giai đoạn 3 và 4 xếp vào giai đoạn ngủ sâu (Document 3).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.7628729471220687,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999998
+        },
+        {
+          "id": "sleep_028",
+          "question": "Giai đoạn 4 của giấc ngủ còn được gọi là gì và cơ thể diễn ra những gì trong giai đoạn đó?",
+          "answer": "Giai đoạn 4 của giấc ngủ còn được gọi là giai đoạn phục hồi cơ thể. Trong giai đoạn này, sự phát triển và sửa chữa tại mô diễn ra, các hormone quan trọng được giải phóng và năng lượng tế bào được phục hồi (Document 2).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8855826257758953,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.5833333333041666
+        },
+        {
+          "id": "sleep_029",
+          "question": "Mỗi chu kỳ giấc ngủ kéo dài bao lâu và một đêm ngủ đủ 8 tiếng gồm mấy chu kỳ?",
+          "answer": "Mỗi chu kỳ giấc ngủ kéo dài khoảng 90 đến 120 phút và một đêm ngủ đủ 8 tiếng thường trải qua bốn hoặc năm chu kỳ (citation: Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9325074028255024,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.94999999997625
+        },
+        {
+          "id": "sleep_030",
+          "question": "Giấc ngủ REM chiếm khoảng bao nhiêu phần trăm thời gian ngủ của người trưởng thành?",
+          "answer": "Giấc ngủ REM chiếm khoảng 20-25% của toàn giấc ngủ ở người trưởng thành (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9381297232957949,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.699999999965
+        },
+        {
+          "id": "sleep_031",
+          "question": "Đồng hồ sinh học nội tại được điều khiển bởi cấu trúc nào và tín hiệu mạnh nhất tác động lên nó là gì?",
+          "answer": "Đồng hồ sinh học nội tại được điều khiển bởi nhân trên giao (SCN) ở vùng dưới đồi, và tín hiệu mạnh nhất tác động lên nó là ánh sáng (zeitgeber) (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.7439121283762065,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.999999999975
+        },
+        {
+          "id": "sleep_032",
+          "question": "Thiếu 1–2 giờ ngủ ảnh hưởng thế nào tới nguy cơ tai nạn ô tô?",
+          "answer": "Thiếu 1–2 giờ ngủ có thể tăng gần gấp đôi nguy cơ tai nạn ô tô (AAA Foundation) (Document 1).",
+          "faithfulness": 0.6666666666666666,
+          "answer_relevancy": 0.9193097820469931,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999998
+        }
+      ]
+    },
+    "B": {
+      "label": "hybrid + RRF",
+      "scores": {
+        "faithfulness": 0.840625,
+        "answer_relevancy": 0.6716429014403156,
+        "context_recall": 0.78125,
+        "llm_context_precision_with_reference": 0.7573350694024215
+      },
+      "per_question": [
+        {
+          "id": "sleep_001",
+          "question": "Bản tóm tắt sách về giấc ngủ trong corpus giới thiệu ba cuốn nào và ai là tác giả từng cuốn?",
+          "answer": "Bản tóm tắt sách về giấc ngủ giới thiệu ba cuốn sau:\n\n1. **Why We Sleep** - Tác giả: Matthew Walker\n2. **The Sleep Solution** - Tác giả: W. Chris Winter, MD\n3. **Sleep Smarter** - Tác giả: Shawn Stevenson (citation từ Document 1 và Document 3).",
+          "faithfulness": 0.8,
+          "answer_relevancy": 0.8025837541883015,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_002",
+          "question": "Theo bản tóm tắt Why We Sleep, thông điệp chính của sách về vai trò của giấc ngủ là gì?",
+          "answer": "Thông điệp chính của sách \"Why We Sleep\" là giấc ngủ là nhu cầu sinh học cơ bản, không phải là một điều xa xỉ, và thiếu ngủ được coi là một dịch bệnh công cộng của thế kỷ 21 (Document 5).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9068907923435875,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.5333333333155555
+        },
+        {
+          "id": "sleep_003",
+          "question": "Bốn phần chính của Why We Sleep được liệt kê trong bản tóm tắt là gì?",
+          "answer": "Xin lỗi, nhưng tôi không thể xác minh thông tin về bốn phần chính của \"Why We Sleep\" từ context được cung cấp.",
+          "faithfulness": 0.0,
+          "answer_relevancy": 0.0,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.49999999995
+        },
+        {
+          "id": "sleep_004",
+          "question": "Theo bản tóm tắt Why We Sleep, NREM và REM có vai trò gì và thay đổi ra sao trong đêm?",
+          "answer": "NREM và REM có vai trò quan trọng trong giấc ngủ, với các chức năng sinh lý khác nhau. Trong khi giai đoạn REM (giấc ngủ chuyển động mắt nhanh) thường có sự thay đổi nhiều về hoạt động của sóng não, nhịp tim và hơi thở, thì giai đoạn NREM (giấc ngủ không chuyển động mắt) lại có hoạt động ổn định và đều đặn hơn ([1](https://tamanhhospital.vn/giac-ngu/)). NREM và REM cũng có liên quan đến các thay đổi sinh lý của nhiều hệ thống cơ quan trong cơ thể, cho thấy sự cần thiết của cả hai giai đoạn trong chu kỳ giấc ngủ ([2](https://www.ncbi.nlm.nih.gov/books/NBK20359/)).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.841338269921096,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8333333332916666
+        },
+        {
+          "id": "sleep_005",
+          "question": "Bản tóm tắt Why We Sleep có ủng hộ quan điểm luyện cơ thể để cần ít ngủ hơn không?",
+          "answer": "Bản tóm tắt Why We Sleep không ủng hộ quan điểm luyện cơ thể để cần ít ngủ hơn, vì Walker nhấn mạnh không có bằng chứng về việc “luyện” cơ thể cần ít ngủ hơn (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8793387205925831,
+          "context_recall": 0.5,
+          "llm_context_precision_with_reference": 0.999999999975
+        },
+        {
+          "id": "sleep_006",
+          "question": "Corpus lưu ý điều gì khi sử dụng các khẳng định trong Why We Sleep?",
+          "answer": "Corpus lưu ý rằng một số claim trong sách \"Why We Sleep\" của Matthew Walker bị chỉ trích là phóng đại dữ liệu nghiên cứu và cần đối chiếu với nguồn AASM, Mayo Clinic (Document 1).",
+          "faithfulness": 0.6,
+          "answer_relevancy": 0.0,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_007",
+          "question": "Theo bản tóm tắt The Sleep Solution, sleepiness khác fatigue như thế nào?",
+          "answer": "Theo bản tóm tắt The Sleep Solution, sleepiness (xu hướng ngủ) là trạng thái thiếu ngủ thật, trong khi fatigue (mệt mỏi) là cảm giác mệt mỏi nhưng không có cảm giác buồn ngủ, có thể do stress hoặc bệnh lý. Việc nhầm lẫn giữa hai trạng thái này có thể dẫn đến điều trị sai (Document 5).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9203091449717983,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999995
+        },
+        {
+          "id": "sleep_008",
+          "question": "Bản tóm tắt The Sleep Solution liệt kê ba nhóm giai đoạn ngủ nào?",
+          "answer": "Không có thông tin nào trong các tài liệu được cung cấp về việc tóm tắt \"The Sleep Solution\" hoặc liệt kê ba nhóm giai đoạn ngủ. Do đó, tôi không thể xác minh câu hỏi này.",
+          "faithfulness": 0.0,
+          "answer_relevancy": 0.0,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.0
+        },
+        {
+          "id": "sleep_009",
+          "question": "Bốn giải pháp thực tiễn nào được liệt kê trong phần tóm tắt The Sleep Solution?",
+          "answer": "Không có thông tin cụ thể nào về bốn giải pháp thực tiễn trong phần tóm tắt \"The Sleep Solution\" được cung cấp trong các tài liệu. Do đó, tôi không thể xác minh câu hỏi này.",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.0,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_010",
+          "question": "Sleep Smarter tập trung vào bao nhiêu chiến lược và nhằm mục tiêu gì, theo bản tóm tắt?",
+          "answer": "Sleep Smarter tập trung vào 21 chiến lược thực tế nhằm tối ưu chất lượng giấc ngủ (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8443853604225748,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_011",
+          "question": "Theo phần tóm tắt Sleep Smarter, vì sao ánh sáng được mô tả vừa là bạn vừa là kẻ thù của giấc ngủ?",
+          "answer": "Ánh sáng được mô tả vừa là bạn vừa là kẻ thù của giấc ngủ vì ánh sáng ban ngày, đặc biệt là ánh sáng sáng sớm, củng cố nhịp sinh học (circadian), trong khi ánh sáng xanh vào ban đêm lại ức chế hormone melatonin, gây ảnh hưởng tiêu cực đến giấc ngủ (Document 4).",
+          "faithfulness": 0.75,
+          "answer_relevancy": 0.7043547262671955,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8055555555287036
+        },
+        {
+          "id": "sleep_012",
+          "question": "Phần kết luận của bản tóm tắt nêu điểm chung nào giữa Why We Sleep, The Sleep Solution và Sleep Smarter?",
+          "answer": "Phần kết luận của bản tóm tắt nêu rằng cả ba sách đều thống nhất rằng giấc ngủ là trụ cột sức khỏe ngang hàng với dinh dưỡng và vận động. Thiếu ngủ tích lũy gây hại nghiêm trọng về nhận thức, cảm xúc, miễn dịch và chuyển hóa. Giải pháp cốt lõi nằm ở hành vi và môi trường (sleep hygiene + circadian alignment), không phải thuốc. Nên kết hợp với nguồn y khoa chính thống để tránh phóng đại (Document 2).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.6089941864506315,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.3333333333
+        },
+        {
+          "id": "sleep_013",
+          "question": "Cẩm nang trong corpus định nghĩa vệ sinh giấc ngủ (sleep hygiene) là gì?",
+          "answer": "Cẩm nang định nghĩa vệ sinh giấc ngủ (sleep hygiene) là tập hợp thói quen hành vi, môi trường và lối sống hỗ trợ chu kỳ ngủ tự nhiên, giúp dễ ngủ, ngủ sâu và tỉnh táo vào ban ngày. Khái niệm này được Peter Hauri hệ thống hóa từ năm 1977 (Document 1).",
+          "faithfulness": 0.75,
+          "answer_relevancy": 0.8182614804376817,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999666667
+        },
+        {
+          "id": "sleep_014",
+          "question": "Theo bài Sleep tips của Mayo Clinic đã crawl, một người nằm khoảng 20 phút vẫn chưa ngủ được nên làm gì?",
+          "answer": "Theo bài Sleep tips của Mayo Clinic, nếu một người nằm khoảng 20 phút vẫn chưa ngủ được, họ nên ra khỏi giường và làm những việc thư giãn như đọc sách hoặc nghe nhạc nhẹ, chỉ quay lại giường khi cảm thấy buồn ngủ (Document 4).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8643597893042774,
+          "context_recall": 0.5,
+          "llm_context_precision_with_reference": 0.32499999998375
+        },
+        {
+          "id": "sleep_015",
+          "question": "Theo bài Sleep tips của Mayo Clinic đã crawl, rượu có bảo đảm ngủ ngon suốt đêm vì gây buồn ngủ ban đầu không?",
+          "answer": "Theo thông tin từ tài liệu, rượu có thể gây buồn ngủ ban đầu nhưng lại phá vỡ giấc ngủ nửa sau đêm, giảm REM và deep sleep. Do đó, rượu không đảm bảo ngủ ngon suốt đêm (Document 2).",
+          "faithfulness": 0.75,
+          "answer_relevancy": 0.6974264261351237,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8055555555287036
+        },
+        {
+          "id": "sleep_016",
+          "question": "Khuyến nghị về ngủ trưa trong cẩm nang và bài Sleep tips của Mayo Clinic đã crawl khác nhau như thế nào?",
+          "answer": "Tôi không thể xác minh sự khác biệt giữa khuyến nghị về ngủ trưa trong cẩm nang và bài Sleep tips của Mayo Clinic vì không có thông tin cụ thể về nội dung của cả hai tài liệu này trong context đã cung cấp.",
+          "faithfulness": 0.5,
+          "answer_relevancy": 0.0,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.49999999995
+        },
+        {
+          "id": "sleep_017",
+          "question": "Cẩm nang và bài Sleep tips của Mayo Clinic đã crawl có cùng nhấn mạnh giữ giờ ngủ–thức vào cuối tuần không?",
+          "answer": "Có, cả cẩm nang và bài Sleep tips của Mayo Clinic đều nhấn mạnh tầm quan trọng của việc giữ giờ ngủ-thức đều đặn, bao gồm cả vào cuối tuần. Cụ thể, bài viết từ Vinmec lưu ý rằng những người có giấc ngủ không đều và đi ngủ muộn vào cuối tuần thường có giấc ngủ kém, điều này cho thấy sự ảnh hưởng của việc thay đổi giờ giấc đến chất lượng giấc ngủ (Document 5).",
+          "faithfulness": 0.25,
+          "answer_relevancy": 0.7741065191030315,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.499999999975
+        },
+        {
+          "id": "sleep_018",
+          "question": "Những đặc điểm chung của phòng ngủ được cả cẩm nang và bài Sleep tips của Mayo Clinic đã crawl nhấn mạnh là gì?",
+          "answer": "Cả cẩm nang và bài Sleep tips của Mayo Clinic đều nhấn mạnh rằng phòng ngủ nên tối, mát và có lịch trình ngủ cố định. Điều này được khuyến nghị để tạo điều kiện tốt nhất cho giấc ngủ (Document 5).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.7684779139803917,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.49999999995
+        },
+        {
+          "id": "sleep_019",
+          "question": "Tài liệu 01_Tom_tat_Sach_Giac_Ngu trong corpus có phải toàn văn ba cuốn sách gốc không?",
+          "answer": "Tài liệu 01_Tom_tat_Sach_Giac_Ngu không phải là toàn văn ba cuốn sách gốc. Nó là tóm tắt công khai từ các review uy tín và không sao chép nguyên văn sách bản quyền (Document 2).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.7346332432044881,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8333333332916666
+        },
+        {
+          "id": "sleep_020",
+          "question": "Theo mục Manage worries của bài Sleep tips đã crawl, khi có nhiều điều lo lắng trước giờ ngủ thì có thể làm gì?",
+          "answer": "Theo mục \"Manage worries\" trong bài viết \"Sleep tips\", khi có nhiều điều lo lắng trước giờ ngủ, bạn có thể ghi lại những gì đang trong tâm trí và sau đó để sang ngày mai. Việc quản lý căng thẳng cũng có thể giúp, bắt đầu từ những điều cơ bản như tổ chức, thiết lập ưu tiên và ủy thác nhiệm vụ. Thiền cũng có thể giúp giảm lo âu (Document 2).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8387804211616104,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.5888888888692593
+        },
+        {
+          "id": "sleep_021",
+          "question": "Theo bài viết của Vinmec, uống bao nhiêu mg melatonin trước khi ngủ có thể giúp cải thiện chất lượng giấc ngủ?",
+          "answer": "Theo bài viết của Vinmec, uống 2 mg melatonin trước khi ngủ có thể giúp cải thiện chất lượng và năng lượng giấc ngủ vào ngày hôm sau, đồng thời giúp đi vào ngủ nhanh hơn (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8547830428809741,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.7555555555303703
+        },
+        {
+          "id": "sleep_022",
+          "question": "Nhiệt độ phòng ngủ khoảng bao nhiêu độ C được xem là tốt cho hầu hết mọi người?",
+          "answer": "Nhiệt độ phòng trong khoảng 20 độ C dường như là mức nhiệt tốt cho hầu hết mọi người để có giấc ngủ ngon (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8862948433435482,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999666667
+        },
+        {
+          "id": "sleep_023",
+          "question": "Nghiên cứu về tấm nệm mới trong 28 ngày cho thấy giảm đau lưng, đau vai và cứng khớp bao nhiêu phần trăm?",
+          "answer": "Nghiên cứu về tấm nệm mới trong 28 ngày cho thấy giảm đau lưng tới 57%, đau vai 60% và cứng khớp tới 59% (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.7504882468575546,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_024",
+          "question": "Dùng bao nhiêu gram glycine được cho là có thể cải thiện chất lượng giấc ngủ?",
+          "answer": "Dùng 3 gram axit amin glycine được cho là có thể cải thiện chất lượng giấc ngủ (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9497723961758723,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.9999999999
+        },
+        {
+          "id": "sleep_025",
+          "question": "Ngủ dưới 6 tiếng mỗi đêm làm tăng nguy cơ đột quỵ thêm bao nhiêu so với người bình thường?",
+          "answer": "Ngủ dưới 6 tiếng mỗi đêm làm tăng nguy cơ đột quỵ hơn 20% so với người bình thường (Vinmec, Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.8276227715069657,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999998
+        },
+        {
+          "id": "sleep_026",
+          "question": "Giấc ngủ trưa nên kéo dài tối đa bao lâu theo khuyến nghị trong tài liệu?",
+          "answer": "Tài liệu không cung cấp thông tin cụ thể về thời gian tối đa cho giấc ngủ trưa. Do đó, tôi không thể xác minh câu hỏi này.",
+          "faithfulness": 0.5,
+          "answer_relevancy": 0.0,
+          "context_recall": 0.0,
+          "llm_context_precision_with_reference": 0.0
+        },
+        {
+          "id": "sleep_027",
+          "question": "Trong 5 giai đoạn của giấc ngủ, giai đoạn nào thuộc ngủ nông và giai đoạn nào thuộc ngủ sâu?",
+          "answer": "Giai đoạn 1, 2 và REM thuộc giai đoạn ngủ nông, trong khi giai đoạn 3 và 4 xếp vào giai đoạn ngủ sâu (Document 2).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.7624515478895167,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999998
+        },
+        {
+          "id": "sleep_028",
+          "question": "Giai đoạn 4 của giấc ngủ còn được gọi là gì và cơ thể diễn ra những gì trong giai đoạn đó?",
+          "answer": "Giai đoạn 4 của giấc ngủ còn được gọi là giai đoạn phục hồi cơ thể (Document 2). Trong giai đoạn này, sự phát triển và sửa chữa tại mô diễn ra, các hormone quan trọng được giải phóng và năng lượng tế bào được phục hồi (Document 2). Đồng thời, nhịp thở, nhịp tim, nhiệt độ cơ thể và sóng não hạ tới mức thấp nhất, các cơ đạt đến thư giãn tối đa, và đây là khoảng thời gian khó bị đánh thức nhất (Document 5).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9028431630506899,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8333333332916666
+        },
+        {
+          "id": "sleep_029",
+          "question": "Mỗi chu kỳ giấc ngủ kéo dài bao lâu và một đêm ngủ đủ 8 tiếng gồm mấy chu kỳ?",
+          "answer": "Mỗi chu kỳ giấc ngủ kéo dài khoảng 90 – 120 phút và một đêm ngủ đủ 8 tiếng thường trải qua bốn hoặc năm chu kỳ (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9486980944803746,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999998
+        },
+        {
+          "id": "sleep_030",
+          "question": "Giấc ngủ REM chiếm khoảng bao nhiêu phần trăm thời gian ngủ của người trưởng thành?",
+          "answer": "Giấc ngủ REM chiếm khoảng 20-25% của toàn giấc ngủ ở người trưởng thành (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9381297232957949,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.699999999965
+        },
+        {
+          "id": "sleep_031",
+          "question": "Đồng hồ sinh học nội tại được điều khiển bởi cấu trúc nào và tín hiệu mạnh nhất tác động lên nó là gì?",
+          "answer": "Đồng hồ sinh học nội tại được điều khiển bởi nhân trên giao (SCN) ở vùng dưới đồi, và tín hiệu mạnh nhất tác động lên nó là ánh sáng (zeitgeber) (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.7439121283762062,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.99999999998
+        },
+        {
+          "id": "sleep_032",
+          "question": "Thiếu 1–2 giờ ngủ ảnh hưởng thế nào tới nguy cơ tai nạn ô tô?",
+          "answer": "Thiếu 1–2 giờ ngủ có thể tăng gần gấp đôi nguy cơ tai nạn ô tô (AAA Foundation) (Document 1).",
+          "faithfulness": 1.0,
+          "answer_relevancy": 0.9233361397482317,
+          "context_recall": 1.0,
+          "llm_context_precision_with_reference": 0.8874999999778125
+        }
+      ]
+    }
+  }
+}

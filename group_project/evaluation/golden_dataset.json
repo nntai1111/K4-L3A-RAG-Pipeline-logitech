@@ -1,0 +1,325 @@
+[
+  {
+    "id": "sleep_001",
+    "category": "book_fact",
+    "question": "Bản tóm tắt sách về giấc ngủ trong corpus giới thiệu ba cuốn nào và ai là tác giả từng cuốn?",
+    "expected_answer": "Ba cuốn là Why We Sleep của Matthew Walker, The Sleep Solution của W. Chris Winter và Sleep Smarter của Shawn Stevenson.",
+    "expected_context": "*Danh mục: Why We Sleep (Matthew Walker) • The Sleep Solution (W. Chris Winter) • Sleep Smarter (Shawn Stevenson)*",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_002",
+    "category": "book_fact",
+    "question": "Theo bản tóm tắt Why We Sleep, thông điệp chính của sách về vai trò của giấc ngủ là gì?",
+    "expected_answer": "Sách nhấn mạnh giấc ngủ là nhu cầu sinh học cơ bản, không phải một sự xa xỉ.",
+    "expected_context": "**Mục tiêu sách:** Chứng minh giấc ngủ là nhu cầu sinh học cơ bản, không phải xa xỉ.",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_003",
+    "category": "book_structure",
+    "question": "Bốn phần chính của Why We Sleep được liệt kê trong bản tóm tắt là gì?",
+    "expected_answer": "Bốn phần lần lượt là: Giấc ngủ là gì; Lợi ích của giấc ngủ; Giấc mơ (REM); Xã hội & giải pháp.",
+    "expected_context": "**Phần 1 – Giấc ngủ là gì:**\n**Phần 2 – Lợi ích của giấc ngủ:**\n**Phần 3 – Giấc mơ (REM):**\n**Phần 4 – Xã hội & giải pháp:**",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_004",
+    "category": "book_concept",
+    "question": "Theo bản tóm tắt Why We Sleep, NREM và REM có vai trò gì và thay đổi ra sao trong đêm?",
+    "expected_answer": "NREM gắn với ngủ sâu, sửa chữa và củng cố trí nhớ, chiếm ưu thế đầu đêm. REM gắn với giấc mơ, xử lý cảm xúc và sáng tạo, tăng dần về sáng.",
+    "expected_context": "NREM (sâu, sửa chữa, củng cố trí nhớ) chiếm ưu thế đầu đêm; REM (mơ, xử lý cảm xúc, sáng tạo) tăng dần về sáng.",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_005",
+    "category": "misconception",
+    "question": "Bản tóm tắt Why We Sleep có ủng hộ quan điểm luyện cơ thể để cần ít ngủ hơn không?",
+    "expected_answer": "Không. Bản tóm tắt ghi rằng Walker nhấn mạnh không có bằng chứng về việc luyện cơ thể để cần ít ngủ hơn.",
+    "expected_context": "* Walker nhấn mạnh không có bằng chứng về việc “luyện” cơ thể cần ít ngủ hơn.",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_006",
+    "category": "source_limitations",
+    "question": "Corpus lưu ý điều gì khi sử dụng các khẳng định trong Why We Sleep?",
+    "expected_answer": "Một số khẳng định bị chỉ trích là phóng đại dữ liệu nghiên cứu, nên cần đối chiếu với các nguồn như AASM và Mayo Clinic.",
+    "expected_context": "* Một số claim trong sách bị chỉ trích là phóng đại dữ liệu nghiên cứu (cần đối chiếu với nguồn AASM, Mayo Clinic).",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_007",
+    "category": "book_concept",
+    "question": "Theo bản tóm tắt The Sleep Solution, sleepiness khác fatigue như thế nào?",
+    "expected_answer": "Sleepiness là xu hướng buồn ngủ, được bản tóm tắt gắn với thiếu ngủ thật. Fatigue là cảm giác mệt mỏi nhưng không buồn ngủ, có thể liên quan stress hoặc bệnh lý.",
+    "expected_context": "* **Sleepiness vs Fatigue:** Sleepiness = xu hướng ngủ (thiếu ngủ thật). Fatigue = mệt mỏi nhưng không buồn ngủ (có thể do stress, bệnh lý). Nhầm lẫn dẫn đến điều trị sai.",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_008",
+    "category": "book_fact",
+    "question": "Bản tóm tắt The Sleep Solution liệt kê ba nhóm giai đoạn ngủ nào?",
+    "expected_answer": "Ba nhóm là Light sleep (ngủ nông), Deep sleep (NREM sâu) và Dream sleep (REM).",
+    "expected_context": "* **Ba giai đoạn ngủ chính:** Light sleep – Deep sleep (NREM sâu) – Dream sleep (REM).",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_009",
+    "category": "book_synthesis",
+    "question": "Bốn giải pháp thực tiễn nào được liệt kê trong phần tóm tắt The Sleep Solution?",
+    "expected_answer": "Giữ lịch ngủ–thức nhất quán; phân biệt thiếu ngủ thật với lo âu về giấc ngủ; ưu tiên CBT-I và thay đổi hành vi hơn thuốc; tối ưu ánh sáng, nhiệt độ và tránh kích thích gần giờ ngủ.",
+    "expected_context": "1. Xây dựng lịch ngủ–thức cực kỳ nhất quán.\n2. Phân biệt đúng vấn đề (thiếu ngủ thật hay lo âu về giấc ngủ).\n3. Ưu tiên CBT-I và thay đổi hành vi hơn thuốc.\n4. Tối ưu ánh sáng, nhiệt độ, tránh kích thích gần giờ ngủ.",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_010",
+    "category": "book_fact",
+    "question": "Sleep Smarter tập trung vào bao nhiêu chiến lược và nhằm mục tiêu gì, theo bản tóm tắt?",
+    "expected_answer": "Sách tập trung vào 21 chiến lược thực tế để tối ưu chất lượng giấc ngủ.",
+    "expected_context": "Sách tập trung vào 21 chiến lược thực tế để tối ưu chất lượng giấc ngủ.",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_011",
+    "category": "book_concept",
+    "question": "Theo phần tóm tắt Sleep Smarter, vì sao ánh sáng được mô tả vừa là bạn vừa là kẻ thù của giấc ngủ?",
+    "expected_answer": "Ánh sáng ban ngày, đặc biệt sáng sớm, củng cố nhịp sinh học; ánh sáng xanh ban đêm lại ức chế melatonin.",
+    "expected_context": "* **Ánh sáng là bạn và kẻ thù:** Ánh sáng ban ngày (đặc biệt sáng sớm) củng cố circadian; ánh sáng xanh ban đêm ức chế melatonin mạnh.",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_012",
+    "category": "book_synthesis",
+    "question": "Phần kết luận của bản tóm tắt nêu điểm chung nào giữa Why We Sleep, The Sleep Solution và Sleep Smarter?",
+    "expected_answer": "Cả ba xem giấc ngủ là trụ cột sức khỏe ngang hàng dinh dưỡng và vận động, đồng thời nhấn mạnh hành vi và môi trường, gồm vệ sinh giấc ngủ và sự phù hợp với nhịp sinh học.",
+    "expected_context": "Cả ba sách đều thống nhất: giấc ngủ là trụ cột sức khỏe ngang hàng dinh dưỡng và vận động.\nGiải pháp cốt lõi nằm ở hành vi và môi trường (sleep hygiene + circadian alignment), không phải thuốc.",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_013",
+    "category": "definition",
+    "question": "Cẩm nang trong corpus định nghĩa vệ sinh giấc ngủ (sleep hygiene) là gì?",
+    "expected_answer": "Đó là tập hợp thói quen về hành vi, môi trường và lối sống hỗ trợ chu kỳ ngủ tự nhiên, giúp dễ ngủ, ngủ sâu và tỉnh táo ban ngày.",
+    "expected_context": "**Định nghĩa:** Tập hợp thói quen hành vi, môi trường và lối sống hỗ trợ chu kỳ ngủ tự nhiên, giúp dễ ngủ, ngủ sâu và tỉnh táo vào ban ngày.",
+    "sources": [
+      "data/standardized/legal/02_Cam_nang_Ve_sinh_Giac_ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_014",
+    "category": "scenario",
+    "question": "Theo bài Sleep tips của Mayo Clinic đã crawl, một người nằm khoảng 20 phút vẫn chưa ngủ được nên làm gì?",
+    "expected_answer": "Rời phòng ngủ và làm việc thư giãn như đọc sách hoặc nghe nhạc nhẹ, quay lại giường khi thấy mệt và sẵn sàng ngủ; có thể lặp lại nhưng vẫn giữ lịch ngủ và giờ thức dậy.",
+    "expected_context": "If you don't fall asleep within about 20 minutes of going to bed, leave your bedroom and do something relaxing. Read or listen to soothing music. Go back to bed when you're tired. Repeat as needed, but continue to maintain your sleep schedule and wake-up time.",
+    "sources": [
+      "data/standardized/news/article_01.md"
+    ]
+  },
+  {
+    "id": "sleep_015",
+    "category": "misconception",
+    "question": "Theo bài Sleep tips của Mayo Clinic đã crawl, rượu có bảo đảm ngủ ngon suốt đêm vì gây buồn ngủ ban đầu không?",
+    "expected_answer": "Không. Rượu có thể khiến buồn ngủ lúc đầu nhưng làm gián đoạn giấc ngủ vào phần sau của đêm.",
+    "expected_context": "And even though alcohol might make you feel sleepy at first, it can disrupt sleep later in the night.",
+    "sources": [
+      "data/standardized/news/article_01.md"
+    ]
+  },
+  {
+    "id": "sleep_016",
+    "category": "cross_source_comparison",
+    "question": "Khuyến nghị về ngủ trưa trong cẩm nang và bài Sleep tips của Mayo Clinic đã crawl khác nhau như thế nào?",
+    "expected_answer": "Cẩm nang giới hạn ngủ trưa khoảng 20–30 phút và trước 15 giờ. Bài Mayo Clinic giới hạn không quá một giờ và tránh ngủ muộn trong ngày; bài này cũng nêu ngoại lệ người làm ca đêm có thể cần ngủ muộn trước ca để bù thiếu ngủ.",
+    "expected_context": "* **Ngủ trưa:** Nếu cần, giới hạn ≤20–30 phút và trước 15h. Ngủ trưa dài hoặc muộn làm giảm drive ngủ ban đêm.\nLong daytime naps can interfere with nighttime sleep. Limit naps to no more than one hour and avoid napping late in the day.\nHowever, if you work nights, you might need to nap late in the day before work to help make up your sleep debt.",
+    "sources": [
+      "data/standardized/legal/02_Cam_nang_Ve_sinh_Giac_ngu.md",
+      "data/standardized/news/article_01.md"
+    ]
+  },
+  {
+    "id": "sleep_017",
+    "category": "cross_source_synthesis",
+    "question": "Cẩm nang và bài Sleep tips của Mayo Clinic đã crawl có cùng nhấn mạnh giữ giờ ngủ–thức vào cuối tuần không?",
+    "expected_answer": "Có. Cả hai đều nêu đi ngủ và thức dậy cùng giờ mỗi ngày, kể cả cuối tuần; bài Mayo Clinic giải thích tính nhất quán củng cố chu kỳ ngủ–thức.",
+    "expected_context": "* Đi ngủ và thức dậy cùng một giờ mỗi ngày, kể cả cuối tuần.\nGo to bed and get up at the same time every day, including weekends. Being consistent reinforces your body's sleep-wake cycle.",
+    "sources": [
+      "data/standardized/legal/02_Cam_nang_Ve_sinh_Giac_ngu.md",
+      "data/standardized/news/article_01.md"
+    ]
+  },
+  {
+    "id": "sleep_018",
+    "category": "cross_source_synthesis",
+    "question": "Những đặc điểm chung của phòng ngủ được cả cẩm nang và bài Sleep tips của Mayo Clinic đã crawl nhấn mạnh là gì?",
+    "expected_answer": "Phòng ngủ tối, mát và yên tĩnh.",
+    "expected_context": "□ Phòng tối – mát – yên tĩnh\nKeep your room cool, dark and quiet.",
+    "sources": [
+      "data/standardized/legal/02_Cam_nang_Ve_sinh_Giac_ngu.md",
+      "data/standardized/news/article_01.md"
+    ]
+  },
+  {
+    "id": "sleep_019",
+    "category": "source_provenance",
+    "question": "Tài liệu 01_Tom_tat_Sach_Giac_Ngu trong corpus có phải toàn văn ba cuốn sách gốc không?",
+    "expected_answer": "Không. Tài liệu tự mô tả là bản tóm tắt công khai từ các review, không sao chép nguyên văn sách bản quyền.",
+    "expected_context": "Nguồn: Tóm tắt công khai từ các review uy tín, không sao chép nguyên văn sách bản quyền.",
+    "sources": [
+      "data/standardized/legal/01_Tom_tat_Sach_Giac_Ngu.md"
+    ]
+  },
+  {
+    "id": "sleep_020",
+    "category": "scenario",
+    "question": "Theo mục Manage worries của bài Sleep tips đã crawl, khi có nhiều điều lo lắng trước giờ ngủ thì có thể làm gì?",
+    "expected_answer": "Ghi những điều đang lo ra giấy rồi để ngày mai xử lý; quản lý căng thẳng bằng cách sắp xếp công việc, đặt ưu tiên, phân công và có thể thiền để giảm lo âu.",
+    "expected_context": "Try to resolve your worries or concerns before bedtime. Jot down what's on your mind and then set it aside for tomorrow.\nStress management might help. Start with the basics, such as getting organized, setting priorities and delegating tasks. Meditation also can ease anxiety.",
+    "sources": [
+      "data/standardized/news/article_01.md"
+    ]
+  },
+  {
+    "id": "sleep_021",
+    "category": "numeric_fact",
+    "question": "Theo bài viết của Vinmec, uống bao nhiêu mg melatonin trước khi ngủ có thể giúp cải thiện chất lượng giấc ngủ?",
+    "expected_answer": "Khoảng 2 mg melatonin uống trước khi ngủ.",
+    "expected_context": "Một số nghiên cứu cho thấy uống 2 mg melatonin trước khi ngủ có thể giúp cải thiện chất lượng và năng lượng giấc ngủ vào ngày hôm sau đồng thời giúp đi vào ngủ nhanh hơn.",
+    "sources": [
+      "data/standardized/news/article_02.md"
+    ]
+  },
+  {
+    "id": "sleep_022",
+    "category": "numeric_fact",
+    "question": "Nhiệt độ phòng ngủ khoảng bao nhiêu độ C được xem là tốt cho hầu hết mọi người?",
+    "expected_answer": "Khoảng 20 độ C.",
+    "expected_context": "Nhiệt độ phòng trong khoảng 20 độ C dường như là mức nhiệt tốt cho hầu hết mọi người để có giấc ngủ ngon.",
+    "sources": [
+      "data/standardized/news/article_02.md"
+    ]
+  },
+  {
+    "id": "sleep_023",
+    "category": "numeric_fact",
+    "question": "Nghiên cứu về tấm nệm mới trong 28 ngày cho thấy giảm đau lưng, đau vai và cứng khớp bao nhiêu phần trăm?",
+    "expected_answer": "Giảm đau lưng tới 57%, đau vai 60% và cứng khớp tới 59%.",
+    "expected_context": "Một nghiên cứu đã xem xét lợi ích của một tấm nệm mới trong 28 ngày, kết quả cho thấy nó giảm đau lưng tới 57%, đau vai 60% và cứng khớp tới 59%.",
+    "sources": [
+      "data/standardized/news/article_02.md"
+    ]
+  },
+  {
+    "id": "sleep_024",
+    "category": "numeric_fact",
+    "question": "Dùng bao nhiêu gram glycine được cho là có thể cải thiện chất lượng giấc ngủ?",
+    "expected_answer": "3 gram axit amin glycine.",
+    "expected_context": "Glycine : Một vài nghiên cứu cho thấy dùng 3 gram axit amin glycine có thể cải thiện chất lượng giấc ngủ.",
+    "sources": [
+      "data/standardized/news/article_02.md"
+    ]
+  },
+  {
+    "id": "sleep_025",
+    "category": "numeric_fact",
+    "question": "Ngủ dưới 6 tiếng mỗi đêm làm tăng nguy cơ đột quỵ thêm bao nhiêu so với người bình thường?",
+    "expected_answer": "Tăng hơn 20% nguy cơ bị đột quỵ.",
+    "expected_context": "Khi thức đêm muộn, không đảm bảo ngủ tối thiểu 6h/ngày sẽ khiến cho chức năng của tim mạch và tăng hơn 20% nguy cơ bị đột quỵ so với người bình thường.",
+    "sources": [
+      "data/standardized/news/article_03.md"
+    ]
+  },
+  {
+    "id": "sleep_026",
+    "category": "recommendation",
+    "question": "Giấc ngủ trưa nên kéo dài tối đa bao lâu theo khuyến nghị trong tài liệu?",
+    "expected_answer": "Không quá 1 tiếng đồng hồ.",
+    "expected_context": "Bạn nên chủ động sắp xếp thời gian để có những giấc ngủ trưa ngắn để cho não nghỉ, không ngủ trưa quá 1 tiếng đồng hồ.",
+    "sources": [
+      "data/standardized/news/article_03.md"
+    ]
+  },
+  {
+    "id": "sleep_027",
+    "category": "definition",
+    "question": "Trong 5 giai đoạn của giấc ngủ, giai đoạn nào thuộc ngủ nông và giai đoạn nào thuộc ngủ sâu?",
+    "expected_answer": "Giai đoạn 1, 2 và REM thuộc ngủ nông; giai đoạn 3 và 4 thuộc ngủ sâu.",
+    "expected_context": "Giai đoạn 1, 2 và REM thuộc giai đoạn ngủ nông, trong khi giai đoạn 3 và 4 xếp vào giai đoạn ngủ sâu.",
+    "sources": [
+      "data/standardized/news/article_06.md"
+    ]
+  },
+  {
+    "id": "sleep_028",
+    "category": "definition",
+    "question": "Giai đoạn 4 của giấc ngủ còn được gọi là gì và cơ thể diễn ra những gì trong giai đoạn đó?",
+    "expected_answer": "Được gọi là giai đoạn phục hồi cơ thể: mô phát triển và được sửa chữa, các hormone quan trọng được giải phóng và năng lượng tế bào được phục hồi.",
+    "expected_context": "Trong giai đoạn 4, được biết với cái tên giai đoạn phục hồi cơ thể. Sự phát triển và sửa chữa tại mô diễn ra, các hormone quan trọng được giải phóng để thực hiện công việc của chúng và năng lượng tế bào được phục hồi.",
+    "sources": [
+      "data/standardized/news/article_06.md"
+    ]
+  },
+  {
+    "id": "sleep_029",
+    "category": "numeric_fact",
+    "question": "Mỗi chu kỳ giấc ngủ kéo dài bao lâu và một đêm ngủ đủ 8 tiếng gồm mấy chu kỳ?",
+    "expected_answer": "Mỗi chu kỳ khoảng 90–120 phút, đa phần mọi người trải qua bốn hoặc năm chu kỳ mỗi đêm.",
+    "expected_context": "Mỗi chu kỳ thường diễn ra trong khoảng 90 – 120 phút. Đa phần mọi người đều trải qua bốn hoặc năm chu kỳ/đêm (nếu ngủ đủ 8 tiếng).",
+    "sources": [
+      "data/standardized/news/article_07.md"
+    ]
+  },
+  {
+    "id": "sleep_030",
+    "category": "numeric_fact",
+    "question": "Giấc ngủ REM chiếm khoảng bao nhiêu phần trăm thời gian ngủ của người trưởng thành?",
+    "expected_answer": "Khoảng 25% thời gian ngủ của người trưởng thành.",
+    "expected_context": "Giấc ngủ REM diễn ra nhiều đợt chiếm khoảng 25% thời gian ngủ của người trưởng thành",
+    "sources": [
+      "data/standardized/legal/725770566-GIẤC-NGỦ.md"
+    ]
+  },
+  {
+    "id": "sleep_031",
+    "category": "definition",
+    "question": "Đồng hồ sinh học nội tại được điều khiển bởi cấu trúc nào và tín hiệu mạnh nhất tác động lên nó là gì?",
+    "expected_answer": "Điều khiển bởi nhân trên giao (SCN) ở vùng dưới đồi; ánh sáng là tín hiệu mạnh nhất, gọi là zeitgeber.",
+    "expected_context": "Nhịp sinh học: Đồng hồ sinh học nội tại ~24 giờ, điều khiển bởi nhân trên giao (SCN) ở vùng dưới đồi. Ánh sáng là tín hiệu mạnh nhất (zeitgeber).",
+    "sources": [
+      "data/standardized/legal/03_Huong_dan_Y_khoa_va_5_Bai_viet.md"
+    ]
+  },
+  {
+    "id": "sleep_032",
+    "category": "numeric_fact",
+    "question": "Thiếu 1–2 giờ ngủ ảnh hưởng thế nào tới nguy cơ tai nạn ô tô?",
+    "expected_answer": "Có thể làm tăng gần gấp đôi nguy cơ tai nạn ô tô, theo AAA Foundation.",
+    "expected_context": "An toàn: Thiếu 1–2 giờ ngủ có thể tăng gần gấp đôi nguy cơ tai nạn ô tô (AAA Foundation). Thiếu dưới 4–5 giờ tăng nguy cơ rất cao.",
+    "sources": [
+      "data/standardized/legal/03_Huong_dan_Y_khoa_va_5_Bai_viet.md"
+    ]
+  }
+]

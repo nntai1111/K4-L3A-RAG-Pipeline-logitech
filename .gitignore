@@ -55,6 +55,9 @@ pageindex_pdfs/
 .vscode/
 .idea/
 
+# Golden set guide
+/group_project/evaluation/GOLDEN_DATASET_GUIDE.md
+
 # OS
 .DS_Store
 Thumbs.db

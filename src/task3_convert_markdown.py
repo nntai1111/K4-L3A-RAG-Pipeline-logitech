@@ -23,6 +23,7 @@ OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
 def convert_legal_docs() -> None:
     # TODO:Convert PDF/DOCX vào standardized/legal. 
     #
+    # pyrefly: ignore [missing-import]
     from markitdown import MarkItDown
     legal_dir = LANDING_DIR / "legal"
     output_dir = OUTPUT_DIR / "legal"

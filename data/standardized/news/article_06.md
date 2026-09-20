@@ -1,0 +1,320 @@
+# Các giai đoạn của giấc ngủ | BvNTP
+
+**Source:** https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu
+
+**Crawled:** 2026-09-20T15:07:44.974815
+
+---
+
+Menu
+  * [Trang Chủ](https://bvnguyentriphuong.com.vn/)
+  * [Giới thiệu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)[Open submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-1)
+  * [Thông tin chung](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)[Open submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-2)
+  * [Tin tức](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)[Open submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-3)
+  * [Góc Y học](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)[Open submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-4)
+  * [KHCN](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)[Open submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-5)
+  * [Đấu thầu](https://bvnguyentriphuong.com.vn/thong-tin-dau-thau)
+  * [Góc Bệnh Nhân](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)[Open submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-6)
+  * [Góc Tri Ân](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)[Open submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-8)
+  * [Liên hệ](https://bvnguyentriphuong.com.vn/lien-he)
+  * [Đăng nhập](https://bvnguyentriphuong.com.vn/dang-nhap)
+  * [Đăng ký](https://bvnguyentriphuong.com.vn/dang-ky)
+
+
+[Close submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)[Giới thiệu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)
+  * [Sứ mệnh - Tầm nhìn](https://bvnguyentriphuong.com.vn/gioi-thieu/su-menh-va-tam-nhin)
+  * [Năng lực Bệnh viện ](https://bvnguyentriphuong.com.vn/gioi-thieu/nang-luc-benh-vien-nguyen-tri-phuong)
+  * [Hình thành và phát triển](https://bvnguyentriphuong.com.vn/gioi-thieu/hinh-thanh-va-phat-trien)
+  * [Cơ cấu tổ chức](https://bvnguyentriphuong.com.vn/gioi-thieu/co-cau-to-chuc)
+  * [Ban Giám đốc](https://bvnguyentriphuong.com.vn/gioi-thieu/ban-giam-doc)
+  * [Khối chuyên môn](https://bvnguyentriphuong.com.vn/khoi-chuyen-mon)
+  * [Phòng Chức Năng](https://bvnguyentriphuong.com.vn/phong-chuc-nang)
+  * [Chính sách quyền riêng tư](https://bvnguyentriphuong.com.vn/pho-bien-phap-luat/chinh-sach-quyen-rieng-tu)
+
+
+[Close submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)[Thông tin chung](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)
+  * [Đào tạo](https://bvnguyentriphuong.com.vn/dao-tao)
+  * [Quy trình khám bệnh](https://bvnguyentriphuong.com.vn/quy-trinh-kham-benh)
+  * [Bảng giá viện phí](https://bvnguyentriphuong.com.vn/bang-gia-vien-phi)
+  * [Hỏi đáp](https://bvnguyentriphuong.com.vn/hoi-dap)
+  * [Lịch khám bệnh dịch vụ](https://bvnguyentriphuong.com.vn/lich-kham-benh-dich-vu)
+  * [Xét nghiệm tại nhà](https://bvnguyentriphuong.com.vn/xet-nghiem-tai-nha)
+  * [Tư liệu](https://bvnguyentriphuong.com.vn/tu-lieu)
+
+
+[Close submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)[Tin tức](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)
+  * [Thông tin bệnh viện](https://bvnguyentriphuong.com.vn/thong-tin-benh-vien)
+  * [Hoạt động Đảng và đoàn thể](https://bvnguyentriphuong.com.vn/hoat-dong-doan-the)
+  * [Thông tin khóa học](https://bvnguyentriphuong.com.vn/thong-tin-khoa-hoc)
+  * [Phổ biến pháp luật](https://bvnguyentriphuong.com.vn/pho-bien-phap-luat)
+  * [Văn bản triển khai nội bộ](https://bvnguyentriphuong.com.vn/van-ban-trien-khai-noi-bo)
+  * [Khen thưởng, nêu gương](https://bvnguyentriphuong.com.vn/hoat-dong-khen-thuong-tam-guong-trong-bv)
+
+
+[Close submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)[Góc Y học](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)
+  * [Khoa Khám bệnh](https://bvnguyentriphuong.com.vn/khoa-kham-benh)
+  * [Khối Nội_Nhi](https://bvnguyentriphuong.com.vn/khoi-noi)
+  * [Khối Ngoại_Sản](https://bvnguyentriphuong.com.vn/khoi-ngoai)
+  * [Chuyên khoa lẻ](https://bvnguyentriphuong.com.vn/chuyen-khoa-le)
+  * [Cận lâm sàng](https://bvnguyentriphuong.com.vn/can-lam-sang)
+  * [Điều dưỡng](https://bvnguyentriphuong.com.vn/dieu-duong)
+  * [Khoa Dược](https://bvnguyentriphuong.com.vn/hoat-dong-duoc)
+  * [Da liễu chuyên sâu](https://bvnguyentriphuong.com.vn/kham-da-lieu-chuyen-sau)
+  * [Phẫu thuật thẩm mỹ](https://bvnguyentriphuong.com.vn/tham-my)
+
+
+[Close submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)[KHCN](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)
+  * [Phác đồ điều trị](https://bvnguyentriphuong.com.vn/phac-do-dieu-tri)
+  * [Tài liệu chuyên môn](https://bvnguyentriphuong.com.vn/tai-lieu-chuyen-mon)
+  * [Quy trình thủ tục hành chính](https://bvnguyentriphuong.com.vn/quy-trinh-thu-tuc-hanh-chinh)
+  * [Nghiên cứu được đăng tải trên tạp chí quốc tế](https://bvnguyentriphuong.com.vn/nghien-cuu-duoc-dang-tai-tren-tap-chi-quoc-te)
+  * [Nghiên cứu nội bộ và đăng tải tạp chí trong nước](https://bvnguyentriphuong.com.vn/nghien-cuu-noi-bo-va-dang-tai-tap-chi-trong-nuoc)
+  * [Nghiên cứu khoa học và Thử nghiệm lâm sàng](https://bvnguyentriphuong.com.vn/nghien-cuu-khoa-hoc-va-thu-nghiem-lam-sang)
+
+
+[Close submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)[Góc Bệnh Nhân](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)
+  * [Câu lạc bộ bệnh nhân](https://bvnguyentriphuong.com.vn/cau-lac-bo-benh-nhan)
+  * [Bác sĩ tư vấn](https://bvnguyentriphuong.com.vn/bac-si-tu-van)
+  * [Video clip y tế](https://bvnguyentriphuong.com.vn/danh-sach-video)
+  * [Thông tin & Tiện ích](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)[Open submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-7)
+  * [Liều thuốc tinh thần](https://bvnguyentriphuong.com.vn/lieu-thuoc-tinh-than)
+  * [Kiến thức cho người bệnh](https://bvnguyentriphuong.com.vn/kien-thuc-cho-nguoi-benh)
+  * [Tâm lý](https://bvnguyentriphuong.com.vn/tam-ly)
+
+
+[Close submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-6)[Thông tin & Tiện ích](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-6)
+  * [Hệ thống thanh toán thẻ](https://bvnguyentriphuong.com.vn/he-thong-thanh-toan-the)
+  * [Phần mềm đặt hẹn](https://bvnguyentriphuong.com.vn/phan-mem-dat-hen)
+  * [Tin tức y dược khác](https://bvnguyentriphuong.com.vn/tin-tuc-y-duoc-khac)
+
+
+[Close submenu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)[Góc Tri Ân](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#panel-menu)
+  * [Hoạt động từ thiện](https://bvnguyentriphuong.com.vn/hoat-dong-tu-thien)
+  * [Thư cám ơn](https://bvnguyentriphuong.com.vn/thu-cam-on)
+  * [Gian hàng yêu thương & hoạt động của mạnh thường quân](https://bvnguyentriphuong.com.vn/gian-hang-yeu-thuong-hoat-dong-cua-manh-thuong-quan)
+
+
+[ ![Bệnh viện Nguyễn Tri Phương](https://bvnguyentriphuong.com.vn/uploads/images/avatar/bvntp.png) ](https://bvnguyentriphuong.com.vn/)
+[ Đăng nhập ](https://bvnguyentriphuong.com.vn/dang-nhap) [Đăng ký](https://bvnguyentriphuong.com.vn/dang-ky)
+  * [Trang Chủ](https://bvnguyentriphuong.com.vn/)
+  * [Giới thiệu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+    * [Sứ mệnh - Tầm nhìn](https://bvnguyentriphuong.com.vn/gioi-thieu/su-menh-va-tam-nhin)
+    * [Năng lực Bệnh viện ](https://bvnguyentriphuong.com.vn/gioi-thieu/nang-luc-benh-vien-nguyen-tri-phuong)
+    * [Hình thành và phát triển](https://bvnguyentriphuong.com.vn/gioi-thieu/hinh-thanh-va-phat-trien)
+    * [Cơ cấu tổ chức](https://bvnguyentriphuong.com.vn/gioi-thieu/co-cau-to-chuc)
+    * [Ban Giám đốc](https://bvnguyentriphuong.com.vn/gioi-thieu/ban-giam-doc)
+    * [Khối chuyên môn](https://bvnguyentriphuong.com.vn/khoi-chuyen-mon)
+    * [Phòng Chức Năng](https://bvnguyentriphuong.com.vn/phong-chuc-nang)
+    * [Chính sách quyền riêng tư](https://bvnguyentriphuong.com.vn/pho-bien-phap-luat/chinh-sach-quyen-rieng-tu)
+  * [Thông tin chung](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+    * [Đào tạo](https://bvnguyentriphuong.com.vn/dao-tao)
+    * [Quy trình khám bệnh](https://bvnguyentriphuong.com.vn/quy-trinh-kham-benh)
+    * [Bảng giá viện phí](https://bvnguyentriphuong.com.vn/bang-gia-vien-phi)
+    * [Hỏi đáp](https://bvnguyentriphuong.com.vn/hoi-dap)
+    * [Lịch khám bệnh dịch vụ](https://bvnguyentriphuong.com.vn/lich-kham-benh-dich-vu)
+    * [Xét nghiệm tại nhà](https://bvnguyentriphuong.com.vn/xet-nghiem-tai-nha)
+    * [Tư liệu](https://bvnguyentriphuong.com.vn/tu-lieu)
+  * [Tin tức](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+    * [Thông tin bệnh viện](https://bvnguyentriphuong.com.vn/thong-tin-benh-vien)
+    * [Hoạt động Đảng và đoàn thể](https://bvnguyentriphuong.com.vn/hoat-dong-doan-the)
+    * [Thông tin khóa học](https://bvnguyentriphuong.com.vn/thong-tin-khoa-hoc)
+    * [Phổ biến pháp luật](https://bvnguyentriphuong.com.vn/pho-bien-phap-luat)
+    * [Văn bản triển khai nội bộ](https://bvnguyentriphuong.com.vn/van-ban-trien-khai-noi-bo)
+    * [Khen thưởng, nêu gương](https://bvnguyentriphuong.com.vn/hoat-dong-khen-thuong-tam-guong-trong-bv)
+  * [Góc Y học](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+    * [Khoa Khám bệnh](https://bvnguyentriphuong.com.vn/khoa-kham-benh)
+    * [Khối Nội_Nhi](https://bvnguyentriphuong.com.vn/khoi-noi)
+    * [Khối Ngoại_Sản](https://bvnguyentriphuong.com.vn/khoi-ngoai)
+    * [Chuyên khoa lẻ](https://bvnguyentriphuong.com.vn/chuyen-khoa-le)
+    * [Cận lâm sàng](https://bvnguyentriphuong.com.vn/can-lam-sang)
+    * [Điều dưỡng](https://bvnguyentriphuong.com.vn/dieu-duong)
+    * [Khoa Dược](https://bvnguyentriphuong.com.vn/hoat-dong-duoc)
+    * [Da liễu chuyên sâu](https://bvnguyentriphuong.com.vn/kham-da-lieu-chuyen-sau)
+    * [Phẫu thuật thẩm mỹ](https://bvnguyentriphuong.com.vn/tham-my)
+  * [KHCN](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+    * [Phác đồ điều trị](https://bvnguyentriphuong.com.vn/phac-do-dieu-tri)
+    * [Tài liệu chuyên môn](https://bvnguyentriphuong.com.vn/tai-lieu-chuyen-mon)
+    * [Quy trình thủ tục hành chính](https://bvnguyentriphuong.com.vn/quy-trinh-thu-tuc-hanh-chinh)
+    * [Nghiên cứu được đăng tải trên tạp chí quốc tế](https://bvnguyentriphuong.com.vn/nghien-cuu-duoc-dang-tai-tren-tap-chi-quoc-te)
+    * [Nghiên cứu nội bộ và đăng tải tạp chí trong nước](https://bvnguyentriphuong.com.vn/nghien-cuu-noi-bo-va-dang-tai-tap-chi-trong-nuoc)
+    * [Nghiên cứu khoa học và Thử nghiệm lâm sàng](https://bvnguyentriphuong.com.vn/nghien-cuu-khoa-hoc-va-thu-nghiem-lam-sang)
+  * [Đấu thầu](https://bvnguyentriphuong.com.vn/thong-tin-dau-thau)
+  * [Góc Bệnh Nhân](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+    * [Câu lạc bộ bệnh nhân](https://bvnguyentriphuong.com.vn/cau-lac-bo-benh-nhan)
+    * [Bác sĩ tư vấn](https://bvnguyentriphuong.com.vn/bac-si-tu-van)
+    * [Video clip y tế](https://bvnguyentriphuong.com.vn/danh-sach-video)
+    * [Thông tin & Tiện ích](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+      * [Hệ thống thanh toán thẻ](https://bvnguyentriphuong.com.vn/he-thong-thanh-toan-the)
+      * [Phần mềm đặt hẹn](https://bvnguyentriphuong.com.vn/phan-mem-dat-hen)
+      * [Tin tức y dược khác](https://bvnguyentriphuong.com.vn/tin-tuc-y-duoc-khac)
+    * [Liều thuốc tinh thần](https://bvnguyentriphuong.com.vn/lieu-thuoc-tinh-than)
+    * [Kiến thức cho người bệnh](https://bvnguyentriphuong.com.vn/kien-thuc-cho-nguoi-benh)
+    * [Tâm lý](https://bvnguyentriphuong.com.vn/tam-ly)
+  * [Góc Tri Ân](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+    * [Hoạt động từ thiện](https://bvnguyentriphuong.com.vn/hoat-dong-tu-thien)
+    * [Thư cám ơn](https://bvnguyentriphuong.com.vn/thu-cam-on)
+    * [Gian hàng yêu thương & hoạt động của mạnh thường quân](https://bvnguyentriphuong.com.vn/gian-hang-yeu-thuong-hoat-dong-cua-manh-thuong-quan)
+  * [Liên hệ](https://bvnguyentriphuong.com.vn/lien-he)
+
+
+[ ![Bệnh viện Nguyễn Tri Phương](https://bvnguyentriphuong.com.vn/uploads/images/avatar/bvntp.png) ](https://bvnguyentriphuong.com.vn/) [Search](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#collapseMBsearch) [ Search](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#collapseMBuser) [ Menu ](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#menu-mobi)
+[ Đăng nhập ](https://bvnguyentriphuong.com.vn/dang-nhap) [Đăng ký](https://bvnguyentriphuong.com.vn/dang-ky)
+  * [Trang chủ](https://bvnguyentriphuong.com.vn/)
+  * [Tin từ các cơ sở y tế](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te)
+  * Các giai đoạn của giấc ngủ
+
+
+[ ![](https://bvnguyentriphuong.com.vn/uploads/112023/images/Th%C6%B0%C6%A1%CC%80ng%20du%CC%80ng/%C4%91%E1%BA%A7u%20m%E1%BB%97i%20b%C3%A0i.png) ](https://bvnguyentriphuong.com.vn/gioi-thieu/nang-luc-benh-vien-nguyen-tri-phuong)
+# Các giai đoạn của giấc ngủ
+Mục lục
+  * [Các giai đoạn của giấc ngủ](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#cc-giai-on-ca-gic-ng)
+  * [REM](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#rem)
+  * [Ngủ sâu bao lâu là cần thiết?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#ng-su-bao-lu-l-cn-thit)
+  * [Giấc ngủ REM nên kéo dài bao lâu?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#gic-ng-rem-nn-ko-di-bao-lu)
+  * [Ngủ nông bao lâu là cần thiết?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#ng-nng-bao-lu-l-cn-thit)
+  * [Trẻ em nên ngủ nông – ngủ sâu bao nhiêu lâu?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#tr-em-nn-ng-nng-ng-su-bao-nhiu-lu)
+  * [Làm thế nào để tăng ngủ sâu?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#lm-th-no-tng-ng-su)
+  * [Tại sao bạn có thể mệt mỏi khi thức dậy?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#ti-sao-bn-c-th-mt-mikhi-thc-dy)
+  * [Tác động của việc thiếu ngủ đối với cơ thể](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#tc-ng-ca-vic-thiu-ng-i-vi-c-th)
+  * [Lời kết](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#li-kt)
+
+
+Mặc dù có vẻ như thời gian ngủ là rất nhiều, nhưng não bộ và cơ thể bạn vẫn rất bận rộn trong khoảng thời gian này. Và điều này giúp bạn hoạt động năng suất, tràn đầy năng lượng và khỏe mạnh khi thức dậy.
+Có 5 giai đoạn của giấc ngủ và xoay quanh 2 chu kỳ: REM – mắt di chuyển nhanh ở nhiều vị trí khác nhau và NREM – ngược lại với REM – mắt không di chuyển nhanh ở nhiều vị trí khác nhau.
+Các chuyên gia khuyến nghị rằng người trưởng thành cần từ 7 đến 9 tiếng để ngủ mỗi tối. Những nghiên cứu mới đây xác định vấn đề không chỉ là tổng số thời gian ngủ là bao lâu, mà là thời gian mỗi giai đoạn ngủ bạn cần là bao nhiêu.
+## **Các giai đoạn của giấc ngủ**
+Giai đoạn 1, 2 và REM thuộc giai đoạn ngủ nông, trong khi giai đoạn 3 và 4 xếp vào giai đoạn ngủ sâu.
+**Giai đoạn 1**
+Trong giai đoạn 1, bạn trôi dần từ đang thức vào giấc ngủ. Đây là giai đoạn ngủ nông, chu kỳ NREM sẽ không tồn tại quá lâu. Bạn có thể bắt đầu cảm thấy thư giãn và mơ, nhưng có thể sẽ chuyển sang giai đoạn 2.
+**Giai đoạn 2**
+Giai đoạn 2 của giấc ngủ vẫn là giai đoạn ngủ nông, nhưng bạn đang trôi vào giấc ngủ ổn định hơn. Nhịp thở và nhịp tim sẽ chậm đi, và các cơ sẽ vào trạng thái thư giãn. Nhiệt độ cơ thể bạn sẽ giảm, và các sóng của não bộ sẽ giảm hoạt động.
+**Giai đoạn 3 và 4**
+Trong giai đoạn 3, bạn đã trôi vào ngủ sâu và giai đoạn 4 là giai đoạn ngủ sâu nhất của toàn bộ giấc ngủ. Trong giai đoạn này, nhịp thở - nhịp tim – nhiệt độ cơ thể và sóng não hạ tới mức thấp nhất. Các cơ đạt đến thư giãn tối đa, và đây là khoảng thời gian bạn khó bị đánh thức dậy nhất.
+Trong giai đoạn 4, được biết với cái tên giai đoạn phục hồi cơ thể. Sự phát triển và sửa chữa tại mô diễn ra, các hormone quan trọng được giải phóng để thực hiện công việc của chúng và năng lượng tế bào được phục hồi.
+![](https://bvnguyentriphuong.com.vn/uploads2025/userfiles/39/images/image\(1827\).png)
+## **REM**
+Chu kỳ REM của buổi tối bắt đầu khoảng 90 phút sau khi bạn cảm thấy buồn ngủ và lặp lại mỗi 90 phút. Mắt bạn di chuyển xung quanh một cách nhanh chóng, đằng sau mí mắt và sóng não của bạn trông vẫn giống như của một người đang thức. Nhịp thở, nhịp tim và huyết áp tăng dần lên gần với mức khi bạn thức dậy.
+Giấc ngủ REM, thường được gọi là giai đoạn 5, là khi bạn có nhiều khả năng mơ nhất. Tay và chân của bạn tạm thời bị tê liệt trong giai đoạn này để ngăn bạn thực hiện giấc mơ của mình.
+## **Ngủ sâu bao lâu là cần thiết?**
+Với người trưởng thành khỏe mạnh, khoảng 13-23% của cả giấc ngủ là ngủ sâu. Vậy nên nếu bạn ngủ 8 tiếng buổi tối thì thời gian ngủ sâu nên khoảng 62-110 phút. Tuy nhiên, tuổi cao sẽ khiến bạn khó ngủ sâu lâu hơn.
+Trong giai đoạn ngủ sâu, nhiều chức năng vẫn diễn ra trong tâm trí và cả cơ thể bao gồm:
+  * Các kỷ niệm được củng cố
+  * Diễn ra quá trình học tập và cảm xúc
+  * Phục hồi thể chất cơ thể xảy ra
+  * Đường huyết và sự trao đổi chất được cân bằng
+  * Hệ thống miễn dịch được cung cấp năng lượng
+  * Giải độc ở não
+
+
+Không có giấc ngủ sâu, các chức năng này không thể diễn ra và các triệu chứng thiếu ngủ bắt đầu.
+## **Giấc ngủ REM nên kéo dài bao lâu?**
+Hiện tại không có sự thống nhất nào về vấn đề giấc ngủ REM nên kéo dài bao lâu. Việc bạn mơ là thường gặp nhất trong giai đoạn này. Các chuyên gia tin rằng, giấc mơ giúp bạn tăng cường cảm xúc và củng cố những trí nhớ nhất định.
+Đối với đa số người trưởng thành, REM chiếm khoảng 20-25% của toàn giấc ngủ, và nó được xem là lành mạnh trong chu kỳ chung của giấc ngủ. Tuy nhiên, nghiên cứu giấc ngủ cũng đang đặt ra một số câu hỏi. Một nghiên cứu gần đây cho thấy rằng số lượng giấc ngủ REM cao hơn có thể liên quan đến trầm cảm. Bạn cũng không nên đột ngột thay đổi thói quen ngủ của bạn.
+![](https://bvnguyentriphuong.com.vn/uploads2025/userfiles/39/images/image\(1826\).png)
+## **Ngủ nông bao lâu là cần thiết?**
+Những nhà nghiên cứu về giấc ngủ tin rằng ngủ nông tốt cho sức khỏe của bạn, vậy nên không có giới hạn để phấn đấu đạt được. Ngủ nông là giai đoạn cơ bản, một giai đoạn gần như không thể tránh nếu bạn bước vào giấc ngủ.
+## **Trẻ em nên ngủ nông – ngủ sâu bao nhiêu lâu?**
+Trẻ sơ sinh và trẻ nhỏ cần ngủ nhiều hơn người trưởng thành. Trẻ sơ sinh cần nhiều nhất, cần từ 16 đến 24 tiếng mỗi ngày để ngủ. Xấp xỉ 50% giấc ngủ của trẻ sơ sinh dành cho chu kỳ REM, trong khi 50% còn lại được chia đều giữa giai đoạn 1 và 4 và NREM xoay quanh ngủ nông và ngủ sâu.
+Khi trẻ lớn lên, thời gian ngủ trẻ cần cũng thay đổi:
+  * Mới biết đi: 11 đến 14 tiếng 1 ngày
+  * Mẫu giáo: 10 đến 13 tiếng
+  * Độ tuổi đi học: 9 đến 12 tiếng
+  * Tuổi  _Teen_ : 8 đến 18 tiếng
+
+
+Nếu trẻ gặp phải vấn đề với việc chìm vào giấc ngủ, giai đoạn buồn ngủ, hoặc ngủ quá nhiều so với tuổi của chúng, trẻ có thể cáu kỉnh, có thể có vấn đề về học tập và trí nhớ, hoặc có thể dễ bị bệnh hơn.
+## **Làm thế nào để tăng ngủ sâu?**
+Nếu bạn ngủ 8 tiếng nhưng trở mình hay trằn trọc cả buổi, bạn có thể không ngủ đủ giai đoạn ngủ sâu. Việc tự ép não rơi vào giai đoạn ngủ sâu là không thể, nhưng có một vài cách cho hứa hẹn tăng thời gian ngủ sâu của bạn, bao gồm:
+  * Giảm căng thẳng
+  * Dùng bịt mắt làm giảm ánh sáng khi ngủ
+  * Ngủ trong phòng mát mẻ
+  * Ăn đồ ăn lành mạnh trước khi ngủ
+  * Thiết lập thói quen ngủ
+  * Tập thể dục
+  * Nghe nhạc sóng não
+
+
+Mặc dù nghiên cứu khoa học vẫn còn mới, song một số máy theo dõi giấc ngủ có sẵn có thể giúp bạn theo dõi các kiểu ngủ và xem bạn đang ngủ bao nhiêu ở các giai đoạn.
+## **Tại sao bạn có thể mệt mỏi****khi t****hức dậy****?**
+Theo Hiệp hội Ngưng thở khi ngủ Hoa Kỳ, bạn nên cảm thấy sảng khoái và tỉnh táo khi thức dậy, nhưng nhiều người không được vậy. Nếu bạn ngủ 7 đến 9 giờ mỗi đêm, nhưng chỉ 10% trong số đó là giấc ngủ sâu, bạn sẽ không đạt được thời gian ngủ sâu bạn cần và vẫn có thể mệt mỏi mỗi ngày. Một đánh giá về giấc ngủ có thể giúp bạn tìm hiểu những gì đang xảy ra.
+Một số nguyên nhân mà bạn nên đến gặp bác sĩ bao gồm: 
+  * Rối loạn giấc ngủ nói chung
+  * Khó thở khi ngủ
+  * Thiếu ngủ
+  * Ngủ quá nhiều
+  * Các tình trạng sức khỏe khác gây ra mệt mỏi
+
+
+![](https://bvnguyentriphuong.com.vn/uploads2025/userfiles/39/images/image\(1825\).png)
+## **Tác động của việc thiếu ngủ đối với cơ thể**
+Các nhà khoa học nói rằng chất lượng giấc ngủ rất quan trọng đối với sức khỏe, như thực phẩm và nước. Nó giúp bạn tồn tại và phát triển. Một số tác dụng phụ của thiếu ngủ bao gồm:
+  * Gặp các rắc rối trong trí nhớ
+  * Thay đổi tâm trạng
+  * Suy yếu hệ miễn dịch
+  * Khó tập trung
+  * Thời gian đáp ứng kém và tăng nguy cơ tai nạn
+  * Tăng huyết áp
+  * Tăng cân
+  * Tăng nguy cơ mắc bệnh tiểu đường
+  * Giảm ham muốn tình dục
+  * Tăng nguy cơ mắc bệnh tim
+  * Khả năng cân bằng kém
+  * Lão hóa sớm
+
+
+## **Lời kết**
+Các nhà khoa học đồng ý rằng giấc ngủ rất cần thiết cho sức khỏe, và trong các giai đoạn 1 đến 4 và REM của giấc ngủ đều quan trọng, thì giai đoạn ngủ sâu là điều cần thiết nhất trong tất cả để cảm thấy được nghỉ ngơi và giữ sức khỏe.
+Trung bình, một người trưởng thành khỏe mạnh có khoảng 1 đến 2 giờ ngủ sâu trong 8 giờ ngủ mỗi đêm. Có nhiều cách khác nhau để đánh giá giấc ngủ của bạn, từ các cách theo dõi cá nhân đến nghiên cứu về giấc ngủ. Nếu bạn thường xuyên thức dậy mệt mỏi, thì bạn nên đến gặp bác sỹ hay tìm đến các dịch vụ chăm sóc sức khỏe.
+Nguồn: Viện y học ứng dụng Việt Nam
+**[Bệnh viện Nguyễn Tri Phương](https://bvnguyentriphuong.com.vn/) **- Đa khoa Hạng I Thành phố Hồ Chí Minh
+![](https://bvnguyentriphuong.com.vn/uploads/images/icon%20chung/facebook-icon.png) [facebook.com/BVNTP](http://facebook.com/BVNTP)
+![](https://bvnguyentriphuong.com.vn/uploads/images/icon%20chung/YouTube-icon.png) [youtube.com/bvntp](http://youtube.com/bvntp)
+  * [Các giai đoạn của giấc ngủ](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#cc-giai-on-ca-gic-ng)
+  * [REM](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#rem)
+  * [Ngủ sâu bao lâu là cần thiết?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#ng-su-bao-lu-l-cn-thit)
+  * [Giấc ngủ REM nên kéo dài bao lâu?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#gic-ng-rem-nn-ko-di-bao-lu)
+  * [Ngủ nông bao lâu là cần thiết?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#ng-nng-bao-lu-l-cn-thit)
+  * [Trẻ em nên ngủ nông – ngủ sâu bao nhiêu lâu?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#tr-em-nn-ng-nng-ng-su-bao-nhiu-lu)
+  * [Làm thế nào để tăng ngủ sâu?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#lm-th-no-tng-ng-su)
+  * [Tại sao bạn có thể mệt mỏi khi thức dậy?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#ti-sao-bn-c-th-mt-mikhi-thc-dy)
+  * [Tác động của việc thiếu ngủ đối với cơ thể](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#tc-ng-ca-vic-thiu-ng-i-vi-c-th)
+  * [Lời kết](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#li-kt)
+
+
+## BÀI VIẾT KHÁC
+[Sự liên quan giữa vắc-xin HPV và bệnh đa xơ cứng](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/su-lien-quan-giua-vac-xin-hpv-va-benh-da-xo-cung)
+[Tiêm chủng là gì và cơ chế hoạt động ra sao?](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/tiem-chung-la-gi-va-co-che-hoat-dong-ra-sao)
+[Vaccine phòng virus HPV sẽ được triển khai miễn phí trên toàn quốc vào năm 2026](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/vaccine-phong-virus-hpv-se-duoc-trien-khai-mien-phi-tren-toan-quoc-vao-nam-2026)
+[Điều trị nấc cụt ở trẻ sơ sinh](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/dieu-tri-nac-cut-o-tre-so-sinh)
+[Một số cơn đau thường gặp khi mang thai](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/mot-so-con-dau-thuong-gap-khi-mang-thai)
+[ ![](https://bvnguyentriphuong.com.vn/uploads/082021/images/Trang%20web/tra-cuu-ben-duoi.png) ](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+XEM NHIỀU NHẤT
+[Thông báo về việc mời chào giá gói thầu: Mé nhánh cây xanh trong khuôn viên bệnh viện](https://bvnguyentriphuong.com.vn/thong-tin-dau-thau/thong-bao-ve-viec-moi-chao-gia-goi-thau-me-nhanh-cay-xanh-trong-khuon-vien-benh-vien-1779958928)
+[Thông báo chiêu sinh Chương trình thực hành đối với chức danh Bác sĩ y khoa và Điều dưỡng năm 2024](https://bvnguyentriphuong.com.vn/thong-tin-khoa-hoc/thong-bao-chieu-sinh-chuong-trinh-thuc-hanh-doi)
+[️ Mở thêm dịch vụ dành cho khách hàng: gói khám định kỳ được quản lý, tư vấn](https://bvnguyentriphuong.com.vn/phan-mem-dat-hen/mo-them-dich-vu-danh-cho-khach-hang-goi-kham-dinh-ky-duoc-quan-ly-tu-van)
+[ Thẩm mỹ nội khoa là gì? Dùng những kỹ thuật gì?](https://bvnguyentriphuong.com.vn/kham-da-lieu-chuyen-sau/tham-my-noi-khoa-dung-nhung-ky-thuat-gi)
+[Thẩm mỹ ngoại khoa là gì?](https://bvnguyentriphuong.com.vn/tham-my/tham-my-ngoai-khoa-la-gi)
+[Năng lực Bệnh viện Nguyễn Tri Phương](https://bvnguyentriphuong.com.vn/gioi-thieu/nang-luc-benh-vien-nguyen-tri-phuong)
+[ ![Đặt hẹn khám](https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%A9c%20b%E1%BB%87nh%20vi%E1%BB%87n/sb_%C4%91a%CC%A3%CC%86t%20li%CC%A3ch.png) ](https://bvnguyentriphuong.com.vn/quy-trinh-kham-benh/huong-dan-dat-hen-kham-benh-voi-globedr)
+[ ![Khám tại nhà](https://bvnguyentriphuong.com.vn/uploads/082021/images/Trang%20web/sb_khamtainha.png) ](https://www.facebook.com/dichvutainha.bvntp)
+[ ![Xét nghiệm tại nhà, công ty ](https://bvnguyentriphuong.com.vn/uploads/112023/images/Th%C6%B0%C6%A1%CC%80ng%20du%CC%80ng/Logo/sb_xn.png) ](https://bvnguyentriphuong.com.vn/thong-tin-benh-vien/dich-vu-lay-mau-xet-nghiem-tai-nha)
+[ ![Tiêm ngừa bảo vệ sức khoẻ](https://bvnguyentriphuong.com.vn/uploads/112023/images/Th%C6%B0%C6%A1%CC%80ng%20du%CC%80ng/Logo/tiem_ngua.png) ](https://bvnguyentriphuong.com.vn/khoa-nhi/huong-dan-tiem-ngua-tai-benh-vien-nguyen-tri-phuong)
+### [️ Hướng dẫn sử dụng thuốc Colchicin ](https://bvnguyentriphuong.com.vn/duoc-lam-sang-cho-cong-dong/huong-dan-su-dung-thuoc-colchicin)
+### [️ Viêm phế quản, viêm phổi ](https://bvnguyentriphuong.com.vn/noi-ho-hap/viem-phe-quan-viem-phoi)
+### [️ Vitamin C - Liều giới hạn và liều khuyên dùng ](https://bvnguyentriphuong.com.vn/dinh-duong/vitamin-c-lieu-gioi-han-va-lieu-khuyen-dung)
+### [Giải phẫu xương bàn chân ](https://bvnguyentriphuong.com.vn/co-xuong-khop/giai-phau-xuong-ban-chan)
+### [️ Thế nào là cân nặng lý tưởng? ](https://bvnguyentriphuong.com.vn/dinh-duong/the-nao-la-can-nang-ly-tuong)
+### [️ Ý nghĩa các thông số trong xét nghiệm nước tiểu ](https://bvnguyentriphuong.com.vn/xet-nghiem/y-nghia-cac-thong-so-trong-xet-nghiem-nuoc-tieu)
+### [️ Các nguyên nhân khiến phân có màu đen ](https://bvnguyentriphuong.com.vn/noi-tieu-hoa/cac-nguyen-nhan-khien-phan-co-mau-den)
+### [️ Những điều cần biết về kích thước của ống âm đạo ](https://bvnguyentriphuong.com.vn/san-phu-khoa/nhung-dieu-can-biet-ve-kich-thuoc-cua-ong-am-dao)
+468 Nguyễn Trãi, Phường An Đông, TP.Hồ Chí Minh
+☎ (028) 39234332 - 73077307 
+[**truyenthong** @bvnguyentriphuong.com.vn](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu)
+**[Viện phí](https://bvnguyentriphuong.com.vn/bang-gia-vien-phi)****/**[**Hóa đơn điện tử**](http://tracuuhoadon.mobifoneinvoice.vn/)
+[**THÔNG TIN TUYỂN DỤNG**](https://bvnguyentriphuong.com.vn/to-chuc-can-bo)
+[**Mẫu báo cáo sự cố y khoa**](https://docs.google.com/forms/d/e/1FAIpQLSfAwLQz9bz1XJyhOldkPgvRrLjv0MPvDoG2-TFwi0KXfTuO8Q/viewform)
+[**Tài liệu nội bộ**](http://diendanbvntp.com/)
+_[Design](https://iweb247.com/) by bởi **[iweb247](https://iweb247.com/)**_
+Copyright @ 2016 by BỆNH VIỆN NGUYỄN TRI PHƯƠNG - All right reserved
+[ ![return to top](https://bvnguyentriphuong.com.vn/public/dist/images/back-to-top.png) ](javascript:void\(0\))
+[Close menu](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/cac-giai-doan-cua-giac-ngu#mm-0)
